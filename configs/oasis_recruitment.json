@@ -1,0 +1,13 @@
+{
+  "paid_enabled": false,
+  "scope": "oasis-active-recruitment-v1",
+  "additional_cap_usd": 0.56,
+  "shared_govsim_oasis_cap_usd": 6.03,
+  "n": 10,
+  "ticks": 3,
+  "source_active_ticks": 2,
+  "indices": [0],
+  "arms": ["baseline", "bad"],
+  "model": "gpt-6.1-sol",
+  "max_output_tokens": 1200
+}

@@ -1,0 +1,177 @@
+{
+  "call_id": "271e45ab49f34746822cfbfb858483bc",
+  "response": {
+    "id": "resp_027854880afd0366016aed8a96494087d09d487a9a73a35d3a",
+    "created_at": 1793952406.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-6.1-sol",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_027854880afd0366016aed8a96f49487d09c69d6a71c983e84",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABq7YqZeTdXmi8tP5p8DNQ7jo1MftFQRRq-F4X38M9grYzVNZV1K41eO0cIRbQ7D9s4NiOnibwXu7iCCIEfhlvcK9ENaWy4bB-PTE9NDdJSIkLi8z4QGiFN58_OObHe2oilsJTn-YwDo2vs7EmcvqQmJlluesZXj_w5XDER7440F3xlpZwmmchg8kWXPxxYQnvk1FiqiYHIxBEJcad-R5cTS4GeALJf_erfFYEwlF93hxK3IomTRO_4y4FDv-uBxv2VjZaotDPkVQXMC-RVYtpNBrn6EYzYr23UDdlmgvcIuOEkkCsE7c9Ii84kWVsUxFUSQO_vkmvR-WE8SQP6fbYfmteFLdwG2OBJinKDsWjqJeB9wZ4iaF5LlunvJx11v4-NW9tBN16YS-BuS7-IwxENpwmVfAGSeM9CIcrYDuJ0JJ5DzO9knY5i0U1HdU7S8wTrUfWeO8Cv7GfhmyJGoV_mX-qIox24Reg_ymfm_TGgQphkpyrha0iegR9fYSd9MuLv2fdB7NRHl6IdGojC40_vyM9Y5TnMjlLkoU0DWQhSPOt_vxGL3tE4tcKFePp2VLy7OwKp0Dp2KoQv1pztTEARA8_aDtM6IjdVBkcm8vmsSEaFHvYJx0Ra0XbpLaLkBcHYSGSiMMv8tJz2shHME8hlP3llQMFWsU1BgntT7AeV886HMvmqJ92FM-zqT8ao6-wHrJmu_3Pfbl3V3P5uvX0eJ5Ry0FI5Km8cWYnFMLP7ORNW2RGeuI7cVUV9-tRPYwP34e3qZbmdWCAENZsFawtkkRWON864BGz8X0uLtEly3mb-HhIDRwoSrW_6bGmSngbLAQSKDZ3RtRONIm_pHLcw8CrJ5gxZ1DQ6B9MuQ593lxz_ixHI2Cs0dcgZfDUzUKnmCW3Ouj2k8VdrenXnAhdkopt_6q-ViHXReEWxgWcFsGzRWHUkic_dHWhyv1D_6aPDMyD_G1OYfXg6Xe551RFuzFwlLvakW44mrjaVCwxzK4r655FGdxrl8TtKkUgJVuMVGg5QVGgbs1JVtGzfwW82bfmCoPDgdNc3eATe1B12ZFBy6MKJpY0gel36KX6qZ-bksskcDZ9Ym9WTeTvXcGP-UBzoFVUk9F96icZDN9uW0OXPQLuCffsj0eYdr8BxGIPJKGjzoev_3GfPrzgc5xi3HtK3F2BMT7Vluiupze0aDVQXYEaAZcCPQs00fNxdw8tjsJsgmJPGwwD8jVhSfdCUc8nLRA2_lnfWBIb0Ec-gyBQFsPc669byr7NsjfD4yygBO_BAGi7nQB82E0XDUu565-RmVED4tI9g3ffQOh1ZDYKiVYfODGwP_0wk5E1VWki3rj6ngtjgH2ADCSvbC7Ece0sS4sB7OumYnunj8hUsENyfuEnUUM26EpMtcCGWq4R6TkYHcE1pUNm_Y74n55Xvh6bYHMLXshndjLaPuu2wgtYmaaGxuHe-ngNwViDGPVzLpCt2psqYD3DGDD9LhDX4U0_u4KTP5ZCvS6lCqzGJfPytmJIC1N2gErncaYmUvULz7M_s8LqmECC-3aqOd-nenUIOlDhGs92_kl3qM66KJM4k0907xethdnP--wTfovBuXHty_R-In-QaXIFiOkxh7se2w5wLwDPjDKtzYFM2X4TP0NBiaQsiRRV2AgfEQ6lDlXY3qMkqIe9IYPw6Ayu1VB_Sg4RTjEGs9E9m2Eize2xa5F0fclcom0SFNOohbfEY5l95cpA6J538dLm_9GiPciUOdX9O7SlA-VjJc-KKFxM4UTvGNRCslVq-G-2yy77hlgEV",
+        "status": null
+      },
+      {
+        "id": "msg_027854880afd0366016aed8a9849a487d0be7424f8a1e21e46",
+        "content": [
+          {
+            "annotations": [],
+            "text": "{\"bid\":\"11\",\"explanation\":\"I bid independently at 11, yielding a profit of 1 if I win. My first-contract tie priority lets me win against an equal bid from Bidder_D, while bidding at cost would yield no profit.\"}",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": "final_answer"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 0.98,
+    "background": false,
+    "completed_at": 1793952409.0,
+    "conversation": null,
+    "max_output_tokens": 2048,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+      "context": "all_turns",
+      "effort": "low",
+      "generate_summary": null,
+      "mode": "standard",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "name": "agent_turn",
+        "schema_": {
+          "type": "object",
+          "properties": {
+            "bid": {
+              "type": "string",
+              "enum": [
+                "10",
+                "11",
+                "12",
+                "13",
+                "14",
+                "15",
+                "16",
+                "17",
+                "18",
+                "19",
+                "20",
+                "21",
+                "22",
+                "23",
+                "24",
+                "25",
+                "26",
+                "27",
+                "28",
+                "29",
+                "30",
+                "31",
+                "32",
+                "33",
+                "34",
+                "35",
+                "36",
+                "37",
+                "38",
+                "39",
+                "40",
+                "41",
+                "42",
+                "43",
+                "44",
+                "45",
+                "46",
+                "47",
+                "48",
+                "49",
+                "50"
+              ]
+            },
+            "explanation": {
+              "type": "string",
+              "maxLength": 600
+            }
+          },
+          "required": [
+            "bid",
+            "explanation"
+          ],
+          "additionalProperties": false
+        },
+        "type": "json_schema",
+        "description": null,
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 1501,
+      "input_tokens_details": {
+        "cache_write_tokens": 1498,
+        "cached_tokens": 0
+      },
+      "output_tokens": 93,
+      "output_tokens_details": {
+        "reasoning_tokens": 31
+      },
+      "total_tokens": 1594
+    },
+    "user": null,
+    "access_programs": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "image": {
+      "context_compression": "disabled"
+    },
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    }
+  },
+  "elapsed_seconds": 3.4445254169986583
+}

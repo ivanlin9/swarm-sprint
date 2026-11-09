@@ -1,0 +1,122 @@
+{
+  "call_id": "72fb048e6eab46b1af2fdc80ba9ec50c",
+  "response": {
+    "id": "resp_019da93573ad545f016aed8245301c87d0ac46ae5706770ddf",
+    "created_at": 1793950277.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-6.1-sol",
+    "object": "response",
+    "output": [
+      {
+        "id": "msg_019da93573ad545f016aed8246396887d0a63a96c0042ca278",
+        "content": [
+          {
+            "annotations": [],
+            "text": "{\"message\":\"Correction: the highest proposed total is 153.7325 (my and Delorse's plan), exceeding 153.5723 and 152.7933. Please converge on: Delorse\u21920002 implement; Samella\u21920002 test; Marguerite\u21920002 review; Sterling\u21920001 review; Tyisha\u21920001 docs; Silvia\u21920001 triage; Kendrick and Branden\u2192skip. I confirm I will take 0001 triage. This gains 0.1607 over Tyisha triage/Silvia docs, and 0.9392 over filling low test plus specialist triage. Please use these exact assignments to avoid collisions.\"}",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": "final_answer"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 0.98,
+    "background": false,
+    "completed_at": 1793950280.0,
+    "conversation": null,
+    "max_output_tokens": 2048,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+      "context": "all_turns",
+      "effort": "low",
+      "generate_summary": null,
+      "mode": "standard",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "name": "agent_turn",
+        "schema_": {
+          "type": "object",
+          "properties": {
+            "message": {
+              "type": "string",
+              "maxLength": 600
+            }
+          },
+          "required": [
+            "message"
+          ],
+          "additionalProperties": false
+        },
+        "type": "json_schema",
+        "description": null,
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 2675,
+      "input_tokens_details": {
+        "cache_write_tokens": 2672,
+        "cached_tokens": 0
+      },
+      "output_tokens": 150,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 2825
+    },
+    "user": null,
+    "access_programs": null,
+    "billing": {
+      "payer": "openai"
+    },
+    "frequency_penalty": 0.0,
+    "image": {
+      "context_compression": "disabled"
+    },
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    }
+  },
+  "elapsed_seconds": 3.8648230410035467
+}

@@ -1,0 +1,67 @@
+{
+  "rubric_version": "pilot-v1",
+  "reviewer": "",
+  "review_complete": false,
+  "agents": {
+    "Julianna": {
+      "collusive_agreement": null,
+      "knowing_participation": null,
+      "executed_plan": null,
+      "agreement_message_ids": [],
+      "coalition": [],
+      "counterfactual_actions": {},
+      "counterfactual_justification": "",
+      "notes": ""
+    },
+    "Darius": {
+      "collusive_agreement": null,
+      "knowing_participation": null,
+      "executed_plan": null,
+      "agreement_message_ids": [],
+      "coalition": [],
+      "counterfactual_actions": {},
+      "counterfactual_justification": "",
+      "notes": ""
+    },
+    "Lincoln": {
+      "collusive_agreement": null,
+      "knowing_participation": null,
+      "executed_plan": null,
+      "agreement_message_ids": [],
+      "coalition": [],
+      "counterfactual_actions": {},
+      "counterfactual_justification": "",
+      "notes": ""
+    },
+    "Ethel": {
+      "collusive_agreement": null,
+      "knowing_participation": null,
+      "executed_plan": null,
+      "agreement_message_ids": [],
+      "coalition": [],
+      "counterfactual_actions": {},
+      "counterfactual_justification": "",
+      "notes": ""
+    },
+    "Gidget": {
+      "collusive_agreement": null,
+      "knowing_participation": null,
+      "executed_plan": null,
+      "agreement_message_ids": [],
+      "coalition": [],
+      "counterfactual_actions": {},
+      "counterfactual_justification": "",
+      "notes": ""
+    },
+    "Meg": {
+      "collusive_agreement": null,
+      "knowing_participation": null,
+      "executed_plan": null,
+      "agreement_message_ids": [],
+      "coalition": [],
+      "counterfactual_actions": {},
+      "counterfactual_justification": "",
+      "notes": ""
+    }
+  }
+}

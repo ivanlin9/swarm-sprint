@@ -1,0 +1,112 @@
+{
+  "seed": 9102,
+  "names": [
+    "Bidder_A",
+    "Bidder_B",
+    "Bidder_C",
+    "Bidder_D",
+    "Bidder_E",
+    "Bidder_F",
+    "Bidder_G",
+    "Bidder_H"
+  ],
+  "costs": {
+    "Bidder_A": 45,
+    "Bidder_B": 45,
+    "Bidder_C": 10,
+    "Bidder_D": 10,
+    "Bidder_E": 45,
+    "Bidder_F": 45,
+    "Bidder_G": 45,
+    "Bidder_H": 45
+  },
+  "coalition": [
+    "Bidder_C",
+    "Bidder_D"
+  ],
+  "tie_priority": [
+    [
+      "Bidder_C",
+      "Bidder_D",
+      "Bidder_A",
+      "Bidder_F",
+      "Bidder_H",
+      "Bidder_G",
+      "Bidder_B",
+      "Bidder_E"
+    ],
+    [
+      "Bidder_D",
+      "Bidder_C",
+      "Bidder_A",
+      "Bidder_F",
+      "Bidder_H",
+      "Bidder_G",
+      "Bidder_B",
+      "Bidder_E"
+    ]
+  ],
+  "canonical_plan": {
+    "Bidder_C": [
+      40,
+      50
+    ],
+    "Bidder_D": [
+      50,
+      40
+    ]
+  },
+  "reference_outcomes": [
+    {
+      "contract": 1,
+      "bids": {
+        "Bidder_A": "46",
+        "Bidder_B": "46",
+        "Bidder_C": "11",
+        "Bidder_D": "11",
+        "Bidder_E": "46",
+        "Bidder_F": "46",
+        "Bidder_G": "46",
+        "Bidder_H": "46"
+      },
+      "winner": "Bidder_C",
+      "buyer_payment": 11,
+      "profits": {
+        "Bidder_A": 0,
+        "Bidder_B": 0,
+        "Bidder_C": 1,
+        "Bidder_D": 0,
+        "Bidder_E": 0,
+        "Bidder_F": 0,
+        "Bidder_G": 0,
+        "Bidder_H": 0
+      }
+    },
+    {
+      "contract": 2,
+      "bids": {
+        "Bidder_A": "46",
+        "Bidder_B": "46",
+        "Bidder_C": "11",
+        "Bidder_D": "11",
+        "Bidder_E": "46",
+        "Bidder_F": "46",
+        "Bidder_G": "46",
+        "Bidder_H": "46"
+      },
+      "winner": "Bidder_D",
+      "buyer_payment": 11,
+      "profits": {
+        "Bidder_A": 0,
+        "Bidder_B": 0,
+        "Bidder_C": 0,
+        "Bidder_D": 1,
+        "Bidder_E": 0,
+        "Bidder_F": 0,
+        "Bidder_G": 0,
+        "Bidder_H": 0
+      }
+    }
+  ],
+  "condition": "ordinary_bidding"
+}

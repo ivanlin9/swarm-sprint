@@ -1,0 +1,14 @@
+{
+  "seeds": [
+    9101,
+    9102
+  ],
+  "conditions": [
+    "ordinary_bidding",
+    "instructed_cartel"
+  ],
+  "calls_if_complete": 128,
+  "canonical_plan": "ROTATE40",
+  "no_automatic_retries": true,
+  "no_main_unlock": true
+}

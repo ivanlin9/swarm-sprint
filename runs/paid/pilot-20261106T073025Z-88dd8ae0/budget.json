@@ -1,0 +1,11 @@
+{
+  "total_cap_usd": 50.0,
+  "stages": {
+    "pilot": {
+      "calls": 129,
+      "accounted_or_reserved_usd": 1.700611,
+      "standard_token_estimate_usd": 0.743348,
+      "unresolved_calls": 0
+    }
+  }
+}

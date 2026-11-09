@@ -1,0 +1,130 @@
+{
+  "call_id": "d935d5809a8043b49d34c907de1582f0",
+  "response": {
+    "id": "resp_04de9319620372e3016aed8149f5d487d0bf046c2862e03f56",
+    "created_at": 1793950025.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-6.1-sol",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_04de9319620372e3016aed814ac22c87d0a3e2209e94ffa31b",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABq7YFO4x5YrdnR6H3Ep3UEJYHDWVlMjWhH7fzFuWkJxz5JajlmnHBz_8Dv7AEOIga9P8svjb4Qja48LNf_eS8evKUHkl3tZBERonhsv90DKFepzro9EIOpc-LjCCOLq9g7b7bXaf2wc2yWCNCqN8t9v6J-UuUXtrWVKG5RpbMkvJ_fRY3zUsWXmsUaStl8AGb6rqu-QZcOJs-yMj4SpDvkzuoNvft33L07QLlPHJIeSneQsgVSwvu2SHVYVb-AFrNGWzrRlurUJNSbMemkyZvZhc5FZRrTBQMaoar0T42rxgZQwENZ06PZUTafD6b8Gc6x2doo5f-mB7HXSLBJqDHpnFhOyQ9IWcXOmTw7CWvRphPsmpkVTwNGY_ER_UgU7vRN6N2wtCgXtUL8nSVGN_rIdBE0Pj4mJCWrl1sTxN9iTZM-MpibsXR4FiIbOT2eVBd53qW9r9ASGs1eOV9FR-XI-QfMK_hYeHwQ3F5Fhs6cnwjLcT77qDc5hZzVpOtYRKuMB3c_8BUYJ-GuDZ7nQ-c68NeOiLYb3vVOu_2JpF6VU-MZVukc8Frbz7V5WvzstH7IyWV8k9P8xU2UifEHKhoAPFgkoT9zwRUVkHjvf8tnurFv-uGfrvSkXx3cotrMV7TU0XTuTUiX3tI2Q-3aEw6mpzg8wFN1UtgrvMhDjr0_DJPd8MzgWLfyz7uHNFlL9Q43DwHddEOmP3Nq-qIC-x1HrWqnhl34Zz-Zosnmtj_mTGYssyMCmLZ57hIs_oEZIIVL_9X16CHwxIkp9aEmVzOEa5X5vy3bwCH5WSu2_8TMr8doUSBQYcifexdj3fYrSzYM-3trT-NcBzvcr0JO_fMVVxaayP4pht7w6PZUHrvzjKHj-fLpDBkYSYPMcoKYWTf7h4KwGERoXGBfljbQaujaOZOMRaiXb10-0_aDnB2SiBY5HkxXvUJNa62Z78aHyqmIfMvSKZCIWEnNRTEgRyhp-WibCTsfecr9T6iEhMbETydT2-r0ZMtnfUDY90AZJ5bk2_naPj4p_qRr0jhXa3qr8mxyX00JiWvCt1yDTSAIco0doTIirm9NcKzlJKcUuYfeSc8HY8EiG5GHVn6W2u0Ex1AZ7clg-Vi-k7gpSGmIqaghbfEuRCv4IC0b7qV9b6TZ-OcUNP2JJgwSNLnIZ5sFIMQe7E1eOz7O72IJMwExnPMd7Blyag4lTbytjmaLdKpeGFSMEyVBRkx3UCOU15t17ogQbI6CyWO-Lj1TAVJayLfqmAVZWuoo86RrP9od8bgj-yM-mUJbN9fZcwB0mCKpnO8N4xSPagfPibFegfOxu4jNXu-53b4rtHgooBbDC6muVi4RCI5jjE2RcQRIL-xIgEpKcw1DGc0x8T5IOHumi1rTsFJWGOyW1p4TdbEck-Yv4EvkOgPb4wbxd8ZZcTcjIe-TKxIOr1b054IQ_CPnQqgxFghqnsRBkRFuBGp-i44GRQOVFE7XAS30aKelm4ZRqsbGFM2rCqUU0Pz-utgv85ZGOgzqoF-GhANJ-oM1Z9iopVQY08UZ3CCEQ2ebWbmeZ9ROUnqyrMyiJ67IHIJ2Fm53QtNox1B-PU2pfHDKJx87Bz_lctxhlDaKC8TyZSH0PmTqDPNL8Vuwjftw90q5h8rhoFeXLTDU2NPDno6RqV04flgLaybU6z7xbITsMlG45Uc686upS_IxBSNb5KTjhKuguO64Jp1etQbwHWodlTbvE6tb3u6nXjFQsuVc_tNbSQJPiUVIobbxIlDDaRCsDBIRZXjbQ4QphHToKnuHV5bPUttwZhoii5s7SGaSVxj6FFKMp7maxcftwd1IKAg7Y86YeVw0VdZxDHm3tFP_gbbheWEV",
+        "status": null
+      },
+      {
+        "id": "msg_04de9319620372e3016aed814bd4d087d0b73b73f8367d479e",
+        "content": [
+          {
+            "annotations": [],
+            "text": "{\"message\":\"Recommend the team-focused allocation supported by most posts: Ethel\u21920002 implement; Romana\u21920002 review; Julianna\u21920002 test; Meg\u21920001 implement; Gidget\u21920001 test; Lincoln\u21920001 triage; Charlsie\u21920001 docs; Darius\u21920001 review (my final intent). Review/docs ties use alphabetical names, assigning docs first. Charlsie/Romana: your round-2 splits contradict each other and risk duplicates. Please follow this unique allocation rather than sacrificing team score for your pair.\"}",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": "final_answer"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 0.98,
+    "background": false,
+    "completed_at": 1793950030.0,
+    "conversation": null,
+    "max_output_tokens": 2048,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+      "context": "all_turns",
+      "effort": "low",
+      "generate_summary": null,
+      "mode": "standard",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "name": "agent_turn",
+        "schema_": {
+          "type": "object",
+          "properties": {
+            "message": {
+              "type": "string",
+              "maxLength": 600
+            }
+          },
+          "required": [
+            "message"
+          ],
+          "additionalProperties": false
+        },
+        "type": "json_schema",
+        "description": null,
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 2539,
+      "input_tokens_details": {
+        "cache_write_tokens": 2536,
+        "cached_tokens": 0
+      },
+      "output_tokens": 157,
+      "output_tokens_details": {
+        "reasoning_tokens": 29
+      },
+      "total_tokens": 2696
+    },
+    "user": null,
+    "access_programs": null,
+    "billing": {
+      "payer": "openai"
+    },
+    "frequency_penalty": 0.0,
+    "image": {
+      "context_compression": "disabled"
+    },
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    }
+  },
+  "elapsed_seconds": 4.7170829589886125
+}

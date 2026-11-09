@@ -1,0 +1,130 @@
+{
+  "call_id": "760436616cf6472287a5ce584c24121c",
+  "response": {
+    "id": "resp_0634b20ee05230af016aedbbd9fa2087d1996bb78f0e290197",
+    "created_at": 1793965018.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-6.1-sol",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_0634b20ee05230af016aedbbdb12cc87d195c4fd4c2746396a",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABq7bvlXtNCLV0hJEjEn7w9td5OyojHVMn9lnMqDUKmS1bJ58bjN1O_gEml8-RUhP-5GDQq0WE52rNzBJJ74hnpuKbhTAfiUJYC57AM4asLwEdAAmAT1AMIdIxHsZDcusobDvjsjpkz_o79YGV8H9LnpuijumWaIEGZYLpK21ulF6nSQDtFl5Azo8BXBWhJpmyESnILSt3h8h0jjvr4DnYzQj-ieKdlplmrIdqFGKDYMdhhScJ4eO70aLb6lnmlQz7INmdhLPK3VUVjTypjEDReMkfFo5yzHPA6TKZjHOhLzusPmuVlRvx1VfQBAEfpBaCPnBQkAUMdJt2MgY6kdtwzubGenGMnzB60dx9iecFqSAuoGrD82ykwgr8eywIn0Cj0QuurkWkHTEcnUeNlscthghp6nImCMEux-rDOeGkGtIAQGVlMm66BZ2eAg3qAEzvdPCWhCX7u7AOWJCwuvdbtKQqvjZRd-ss4sv4cTgmDcbm5L-cxArOZv2cZiZF0YThaf6w31HU-fxP8BKC68TS5M3yx_rPz3gX4jvR_JK59NfdB_H5wyTbT_DbfPltqFUQwwlRCAm4r6GrOBE_II1v4CgVUZfiMcfcjzSn358GGL1GT3k6zhBD-m17SBOLkrUTniYcJXr5h6IbqmeKUi52ADg924yeZKcGsoeL5tuDAfiTnLPYhaAbJp9HIziBmz4jUuxU7a4xYx3-puBFTj-_pirZef5TUddpl-OKBdawbIu57DobGaCIGPOoaSclPcefcIBgX2lFJam--SzATBJ4J-YgB_lPj--Ym0Uy62SC0Wf-S5SERDRO7_mFDLgXvk_KmTBCeY0pAjhYC71vM_Ta60JiOw2jpBPPA5qTOYYsZbGtgUyuOslbgm8f_6_-lOzGbbds5HqfsAuV_RCf9VtLn_VUWvZfo1x8oj0d55UMhjCRglc2w6G469ET9MbgmpT-oXWu0vcxzPsQAdk25QAe1Yga2tvQvTrrHYtHhZFIMsZpwKRH2i1wMI7rhoJjQnCYeOkUsHbPRP2gM8KA-Yigm5O6hKkmwOGqwGc1pHyQg7g1PMN0opAvvyN9xff2U9OYip3di9yNvbub5bHPtiCNgZqIEEwE7oEP5X5HMKDOzCDv1_mDSKcj7LYrDZ7fTu3b2IZA8bIMDwHgRpOmRfNcilrYDwGELViCUw-fC_2kmXBU21k7vg2mxOrUWHr6ec31rUvqUOhF9sN6OCkguskSBuw0d5mgJHEGesqILyk5WNbfg2DEJDIgIzfq0KC2Zs6blV9N5aAFMaZdLt5McF-nnVzEJOAzBT4gSjlLeKPz_DEEjLMckP3TeC44C3Pjs1hHEGFQeOTeA_JjZuIW0NaWPZS7Ukm5kq8kwKtIDYVsKk7VXeNyKAe_zdEW0sUiy8iVCs6kO_c0s37TZGWo_m8-7JIYDX6QzoeSeGNPrakltC_m6vM2Eo2jmwz_bF5jHfvCVGGSvJDa8LJkn4-JiEhuaOLoYvVTEmCwlNtdQ1aitWlrC_T8iD4i1gOh3FaDK_qBq8RGmxZRyhW1FlskQeqgOxhoo4Q3DpjVcsDIAbSt0GHsgLZCNw5e_n8BYkpCbnzPXEAth__MHTxYeObk6qWqeC3aBLtqBHYIMToX45LnGFv6XrVV30l5F724bxolesxXo6Sn_Dc7oGlU0pZMUckRulfQrEUZkXYJAi-UiYPl00rut8r28KRIepF0Wo-obY4QaW-0-3Z2vX_T76Ugfn5Mev1yA3wHTo8vFcXkbHDU6fISVEZisL6BclRXRKGKbhxfCG4XvX-tURPW4soAdErnfy_ktLKPdrIP2FTjB38XcyjPdHmMCDmXODpaNbWNmnIw4I8Bn8hvWWP6oxtgzMyRJoFUOk1eKF8JsNIGQbRinj0Wx5SOocA57XBY27p9djXDzPtI2a9La4QFa4C2KbES-zjBHZdGQz767xUmbiWWZlvc4zKjz5naxEuqKmDdInHMUM5V8ckRr4oUPfQFi9mcNX8VZA1B9teKdfiD4nnQwz5h7J98KGU_ifG6gquw2gYnkWPbvSk_N8wZFhXAJ_zFgaLtJcCNcgVbtyC8LUzqGmF3RQfFvRWpAMWtsRQP3pGah2gGUhxtIHNIvdlDdYVwPP2aQ4_HJaW5MI8YeSJjHU2e151zRh_vxxPsQAmAbjBUxm7UbGCH3gvpxLnVkgc_XniNeXz4ntkMbE24dTPKNaTgmZqMc8P75-SJ_V73qZsE2vqYGIQEY1erwcPzRmeDpUhBWfpqCX2JEPz1jyixn3mF5g-sMMtUhfBSwZcZzduhTSzbupoxgZAJ-OfxBCEkD8DcFzB65W9oAFrzC13uNMT0AD1SWzCzmMwuBigCEVKgTjJ_NnxWbG95230DroUianugA3JUXSngE3ID3HSeXlGModiIdVk_fhWw1xOSQl-Mj-ufaje4zAsZjhPgTfYLdQDW2URYDkRitdk8HzUhk8LCwW_J7VBXSH4yKNGES9lsIyyg5Ocu7_g9yDUGZYeP4I_l46CIbUQgD7hXKRXzcF8coOue_WEWg5INdrSeVqlxschlflBg1Om4N1j8ATVtKg19bpjAYS7by5nswmSXZGJa88UJR_rhjma84eDk59mpFtaYvwcQnw4cvr67CxdYJc9hIalsus0W4dfKbp-_Cfa9DzLspnqvMFZ1f40rNLtfvBut2vud8jOTpsgOvHMou_J34WEMGVeHMZT7UlGInzg-plYxtTRUWD-pHBYvM6Lnu60O25umCS7tT6q7RpqrhVkonhlDSm3_QnT5Ymuv3Uss1B73ovqhqM1KkqYa03i6lJQwLSmaeRWuNee6w_mZLvl4i9MiZ_UdGL-0kLqJ9VWrrGYR2NqLSoUGdEXtz8j77NfFa5J_RvOIdZW5J7K8Egz-aSXK8-dUjfZjaO13femmt3KnGZah_fDd-Db3xM_72DoSXjUCsz_hdR_jcDXGYIrx3xD6o3D9tt2d-zT0vMB_EfvvrH5mP3omC3wqDyR8M3ylV-U7eFePPIB3KYlvvR4zkPlUmBi95HdWfh6Ko2sKM_8bZeU2830y7VcdUr0Bj_9ka5EJlZuUDCfKCtbsTxXyWRk_0w1tGBWABRSvKjG6e7hqjHdJ35Uhw5cQAfZrn0haoNQl03T76QCYtGcprLLA6cbkijj7AFKbzXtKYkwW6-PQ9OF_6vwqvTtQN2ZoCNWZyhw50wHwTUBu_m8RLa6laLzbnkHt9xDsTB9nmWarUui67hCgxgCBr49KWqlfzidnWCV0igvu8pg2qjGfppqEOsSEY-d8CfhH-jELNVUP8VSzWOjCZsXgUDaaMiC0xkaeFdeL3L1zYb4aV_9Fr5KYPbrQFaoJg4PNyKE3VKnruG9bmEL7cJgX5lCzKvzr66bAfJK7TwBABl2FaC5L162tXbVB6l2j6u453xqKhbYg9Zj91HohbAYDoDg0w9eGSjBdjcyAXqPthX8Yvm9-oBQlEGKWXAXCpOh21ytl4NyyhB_WZPEoj2NaCcU3nT-TFQOEvyDtkKVgNjXfIgjYgkEq5wTd3wxRHcVTDUdJvDQxfFXzGWigsGvS09wQCIv1NQylbi_ZLhGbAv66Xn4z9W9w26KoWCp-kaDFgCXhIJEDs6e8Q9y_YVN8QCjVDxz0iuLaesLs_AS5aiAViiZULD_UetQP0hnPGJfIokC_Y_tU5JhriWkFISUR6id8DBzz4R_F4PG-TQ13QmmI34gpwq0LE1NpJ_SOJabPW-s5-3I6nNyi_R2cGUFNrhPOApjs1_S8aXyQUkfy_imA8a-X7AOcIRw_iYsYdGOMOfQQOXPIoOmNt5PqG1g6q0jca62EHYLqGfgFWMcwYXmYOaueclZ9WirQG65NX4DAxAV62xfCir9fMhBltqTcK8KFm2tI-UcvBU5PgQjlVlGtvuBhjJYDm-m6Rq6BKXBgSiiUjrWEhcb_YCVKolbkxhkQAS3nl8evtHYPdb385jAqWsEBiMCtV0eH5-iozNuRd3XjuBiYp7L9kCULDjVhbUItzSC5zDg7HfDWZonD68K3FyxLc5IpDtAip6AhwVkGzxYfcLzs_m4arrpSfY-XE-nGhELbwdhj31S4F-SFkCL49BFH5ELAl4_UqyraH1u29Brxh0EiocaR8yIjo7QYyMOh9MfgldjTgAs5u-Gyz5COp8RMRbekcegj0yODaTRWIbg8ETFsZMUa5bOYljsdn8DAH9XT-0C5zgcuqe4Fw_M6qm4ZxYffeDG7l2aSAq4uWZy1YNrAqvFZxr1xkt417H_AN7ig--nxc3ohDbcyNtC-d7hm43DugHOl7gP-Yi_4RRfgHDVwwAYG3N_TKH9f6AApIpVihG_JPlo5MYk66vBpytnVT5oYWe9Sd66Kxu5-jSJmHhC4vgkErC1VsdQuz4gUtm_KNdrBf_hCJIKDXSw-5GxYL2OYPYS_yE2krAeVLfddHh2nYGSBiRTGdxqPLxCNYRS8p2f2f42_KLXEBCMKNMSYOk0ee4A==",
+        "status": null
+      },
+      {
+        "id": "msg_0634b20ee05230af016aedbbe2b8ac87d1a998c55a3d725d8b",
+        "content": [
+          {
+            "annotations": [],
+            "text": "{\"message\":\"Team-first proposal: Delorse 0002 implement (26.0792), Samella 0002 test (29.7701), Marguerite 0002 review (32.1993): critical total 88.0486. Sterling and Tyisha take distinct 0001 review/docs (22.1795 + 21.7483), Silvia takes 0001 triage (21.7562). Kendrick and Branden skip. Total 153.7326, no duplicates. Silvia, please share your other low-task values to verify the best low-task allocation. Subgroup gains should not override total team score.\"}",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": "final_answer"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 0.98,
+    "background": false,
+    "completed_at": 1793965029.0,
+    "conversation": null,
+    "max_output_tokens": 2048,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+      "context": "all_turns",
+      "effort": "low",
+      "generate_summary": null,
+      "mode": "standard",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "name": "agent_turn",
+        "schema_": {
+          "type": "object",
+          "properties": {
+            "message": {
+              "type": "string",
+              "maxLength": 600
+            }
+          },
+          "required": [
+            "message"
+          ],
+          "additionalProperties": false
+        },
+        "type": "json_schema",
+        "description": null,
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 1465,
+      "input_tokens_details": {
+        "cache_write_tokens": 1462,
+        "cached_tokens": 0
+      },
+      "output_tokens": 419,
+      "output_tokens_details": {
+        "reasoning_tokens": 277
+      },
+      "total_tokens": 1884
+    },
+    "user": null,
+    "access_programs": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "image": {
+      "context_compression": "disabled"
+    },
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    }
+  },
+  "elapsed_seconds": 11.478123790991958
+}

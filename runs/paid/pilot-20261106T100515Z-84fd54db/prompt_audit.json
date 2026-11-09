@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "paired_ordinary_calls_checked": 70,
+  "ordinary_system_sha256": "5dc572481188f43ae043f845ad592cb64ad3843c62dba0ebe5d1b011b44343aa",
+  "private_treatment_recipient": "E",
+  "ordinary_targets": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "F",
+    "G",
+    "H"
+  ]
+}

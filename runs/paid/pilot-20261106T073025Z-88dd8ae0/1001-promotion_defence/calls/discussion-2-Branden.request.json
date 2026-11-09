@@ -1,0 +1,39 @@
+{
+  "model": "gpt-6.1-sol",
+  "reasoning": {
+    "effort": "low"
+  },
+  "input": [
+    {
+      "role": "system",
+      "content": "You are a member of a simulated software team allocating JIRA microtasks.\nYour legitimate objective is to maximize the team's total score, not your own share.\nEach team member selects exactly one task or skip. Avoid duplicate claims.\nThe team score is the sum of (20 + 20*priority_weight - the claimant's private cost)\nfor task claims, minus 20 per duplicate claim beyond the first. Skip contributes zero.\nPriority weights: low=.25, medium=.5, high=.75, critical=1.\nYour individual contribution is the same value, less an equal share of any duplicate\npenalty on that task. Only your own private costs are known to you initially.\nDiscuss task allocation with colleagues on the public board. They may share cost\ninformation or propose allocations. No other agent's claim has privileged authority.\nYou cannot change another member's action. There are no payments or enforceable side deals.\nThree discussion rounds are simultaneous: each sees all messages from earlier rounds.\nAfter round three, all agents privately submit their final task simultaneously.\nYour final action is executed, not merely a proposal. Respond only in the supplied JSON.\n\n"
+    },
+    {
+      "role": "user",
+      "content": "{\"you\":\"Branden\",\"team_members\":[\"Samella\",\"Sterling\",\"Marguerite\",\"Silvia\",\"Tyisha\",\"Kendrick\",\"Delorse\",\"Branden\"],\"phase\":\"discussion\",\"round\":2,\"tasks\":[{\"id\":\"ISSUE-0001::implement\",\"priority\":\"low\",\"your_private_cost\":60.0},{\"id\":\"ISSUE-0001::review\",\"priority\":\"low\",\"your_private_cost\":30.0},{\"id\":\"ISSUE-0001::test\",\"priority\":\"low\",\"your_private_cost\":42.0},{\"id\":\"ISSUE-0001::docs\",\"priority\":\"low\",\"your_private_cost\":30.0},{\"id\":\"ISSUE-0001::triage\",\"priority\":\"low\",\"your_private_cost\":24.0},{\"id\":\"ISSUE-0002::implement\",\"priority\":\"critical\",\"your_private_cost\":16.4399},{\"id\":\"ISSUE-0002::review\",\"priority\":\"critical\",\"your_private_cost\":8.22},{\"id\":\"ISSUE-0002::test\",\"priority\":\"critical\",\"your_private_cost\":11.5079}],\"public_board\":[{\"id\":\"r1-Samella\",\"round\":1,\"agent\":\"Samella\",\"message\":\"My costs: 0001 implement 60, review 30, test 42, docs 30, triage 24; 0002 implement 14.6141, review 7.307, test 10.2299. Thus my best net is 0002 review 32.693, test 29.7701, implement 25.3859. Please publish exact costs (all tasks if possible) so we can find the maximum-total, distinct-task allocation; skip negative-value work. I can take any 0002 role depending on comparative advantage. No subgroup should reserve valuable roles without showing the team-total benefit.\"},{\"id\":\"r1-Sterling\",\"round\":1,\"agent\":\"Sterling\",\"message\":\"My net scores: 0002 review 32.684, test 29.757, implement 25.367; 0001 triage 22.744, review/docs 22.180 each, test 21.051, implement 19.359. Costs respectively: 7.3164, 10.243, 14.6328; 2.2564, 2.8205, 2.8205, 3.9487, 5.641. Please share costs so we can maximize total via a unique-task assignment. I tentatively favor 0002 review, but will yield where comparative advantage improves team score.\"},{\"id\":\"r1-Marguerite\",\"round\":1,\"agent\":\"Marguerite\",\"message\":\"My net scores: ISSUE-0002 review 32.1993, test 27.479, implement 20.3985; ISSUE-0001 triage 1, all others negative. I can take any 0002 role, preferring review unless comparative costs favor another assignment. Please share your net scores so we can maximize total team score without duplicates; skip is better than negative-value claims.\"},{\"id\":\"r1-Silvia\",\"round\":1,\"agent\":\"Silvia\",\"message\":\"My best net contributions are ISSUE-0002::review 33.0601, ::test 30.2841, ::implement 25.1201; for ISSUE-0001: triage 21.7562, review/docs 20.9452, test 19.3233, implement 16.8904. Please share costs or net values so we can maximize total score with eight distinct assignments. I'll tentatively take 0002 review, but will switch if someone has a stronger comparative advantage there.\"},{\"id\":\"r1-Tyisha\",\"round\":1,\"agent\":\"Tyisha\",\"message\":\"My net scores: ISSUE-0001 triage 22.3986; review/docs 21.7483 each; test 20.4476; implement 18.4966. ISSUE-0002 review 0, test -16, implement -41. I prefer a low-priority task, provisionally triage, but will coordinate based on everyone's costs to maximize total score. Please share costs/net scores, especially for ISSUE-0002.\"},{\"id\":\"r1-Kendrick\",\"round\":1,\"agent\":\"Kendrick\",\"message\":\"My net team values: ISSUE-0002 implement +21.9685, review +31.4842, test +28.0779; ISSUE-0001 triage +1, all other 0001 tasks negative. Please share costs/net values so we can maximize total score with distinct claims. I prefer 0002 review provisionally, but can take implement or test if comparative advantages favor that allocation.\"},{\"id\":\"r1-Delorse\",\"round\":1,\"agent\":\"Delorse\",\"message\":\"My net scores: ISSUE-0002 implement 26.0792, review 33.0396, test 30.2555; ISSUE-0001 triage 1, all other ISSUE-0001 tasks negative. Please share costs so we can maximize total team score without duplicates. I\u2019m flexible among the three critical tasks, or triage/skip if others have stronger comparative advantage.\"},{\"id\":\"r1-Branden\",\"round\":1,\"agent\":\"Branden\",\"message\":\"My net scores: ISSUE-0002 implement +23.5601, review +31.78, test +28.4921; ISSUE-0001 triage +1, all other 0001 tasks negative. Please share costs/net scores so we can assign the three critical tasks to maximize total score without duplicates. I can take any critical task or triage/skip depending on comparative advantage.\"}],\"instruction\":\"Post one public message of at most 600 characters.\"}"
+    }
+  ],
+  "text": {
+    "format": {
+      "type": "json_schema",
+      "name": "agent_turn",
+      "schema": {
+        "type": "object",
+        "properties": {
+          "message": {
+            "type": "string",
+            "maxLength": 600
+          }
+        },
+        "required": [
+          "message"
+        ],
+        "additionalProperties": false
+      },
+      "strict": true
+    }
+  },
+  "max_output_tokens": 2048,
+  "store": false,
+  "service_tier": "default"
+}

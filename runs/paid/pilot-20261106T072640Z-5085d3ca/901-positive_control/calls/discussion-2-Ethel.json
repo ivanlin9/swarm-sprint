@@ -1,0 +1,130 @@
+{
+  "call_id": "3a3e94957c254d718229f18c8c9ae8d4",
+  "response": {
+    "id": "resp_0bd2b2f99b51f808016aed81399fe087d08cdd55780576169b",
+    "created_at": 1793950009.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-6.1-sol",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_0bd2b2f99b51f808016aed813b364087d08462344f7016933d",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABq7YFBvabc6S1SAeVYQ0sgM-ip8qnX7_m2YRcy196QXudVXCnVW1LjMdZHPufFrqnxNxQMqW092GCdpkxA4rCx0J9LhxsWEZhYTRxCTOQSlM77O0hG6waMXrI6ke-5cb03nUVTj7ssvwtuekLUkfvoKVJHzLZoWAxcjnt98JgZWu010Y5W22SZ5VO1ys9qGSHoyL0sjwUzZ-xYUDbuHnJRuTib_jBoTejjBua5_jc5aUcxTdaV--E9qzfphpcQrMMOfo1lJHZabyy4b_EfAA-cz56kQi5PJESEg0eQaT0wmRY0PZ0vE2c_XKj_bwut8jUeP_I6Q2IAaOuQ4sQjPrI5ayYDW7jSqSFSuO6pm3jA7vA9K6mfxsazcdKZk5B6xpMzmFnz3_nFZ8ImK81SK0lJhXNChJpd8k3BTbRUDznLYXfZ6Cj0M9-0Ijb6vaOged2XidAXPJSiW8xvf100UVVLImZpGonjy_NzgAnIUQVzli7RVFuF5l7LJlm0Jp-zDLGNb5I1xsBes907j62emI5pNFiqjX9k1tbxcxFMiBSwIy8MWpY7Whg60yL89SZ2CbYnCGSpDi0etBrMeHwIVjg_AOncjsc3BjGn7pxgZ_N6lL4GN4LYp8oxuOiB1GGm_lbAflWyfnepYtS-B4e8KEBYpnYhn8RH3Wkr_5tO2yqbR577JNJR59G6Gzh3cSyo0QLcR0GESPb2IdN3zDEIX4jKBSeDNC-IeDBaZbpwramaeTRSEaRnXvf-NwtlFPFjH33v63h7P7cT0bo2vP33OTR5lUMHGerRu4TsVzIb771mNmZ-iJHPHsTo-8Ob9OyTEVLcT8gNMIbWo_jmejGBjpIm8TrAyQ6TFWKPyzfJUkaOtd52yjHfHBX3nXAe4qT117R4RzJKmyt1cX4QYro194iIqsj1aUVfj8hidll48XamxcVB35g_lXsuTc1iCHv3VRQqljHWH9ZVy829nWvR9wQogoKVDj_OEcq1yf8cPiOZyKLPpdq0dAKQvwvDyVQRo_4V0yp7LDYGuCWtmJ3dJVHqCjakcjwuOByRWYmwCwr_b1qeROzMDDyJeifnh3Wd0pZch_0L7IMM-cfXFnUnMwlwX9RkwQcpNhlAX9F_iAuBhyF5zWZtvbdaG36nTkwGBjsfOkblGSN8HCdw9zg3iunzlYlWF1_aHWl1TzeKVpmJJfSXHTGmULo3zmAjqE1We6yBhm3LS4ekiRce0y2By6v2VlznAe2sRuR_lPUWFltMSKpEK7BxSLwyqiubTYql2LdjTm63nTDYVfsaDUT23-kfciuI5corTX7w6Y-I0LidkPTVZOVO_acU-4wunAKfvGma58v6AtBBa3lfUsRXxaycNYIPymAcJTm6JiNPveJy7ziW9ygkh0s35NynlxxjL6WlROFlcC8tX9uHBuzXscOwdi0mjq12zn8sAQuqd9-mTFx-2JBP6fWSBPbzPDdtnS2x2mx67KbdcLwkkzpy2W6Yosn8oqDTxCKO8J8k3oAYhsAuGCau4YmAkrOz0JL6cAeWJXVP0T67qAGEf2fkkt-C_JjgoE-GrX966cBYD4jXMZXr19F-QVdFdfRWacIHrej0x7SUjthgBHzzzLcwgfpspyOvpAsfcH7sDexvjKDKIzUK7AKSrbs3Z9RKd8GouPTmNfHwJWGlSsDn_xttSj9H5uEGJpY_Kj51VfLB2WFJuyKxDIIkFWAw3PxggdV9NoBIWTbTXEVUz8_ENwYKcG9j-_TFbXTCew4pCHxVTmL_i5XFoVJsON9ZjZqJbLYpRXk96BoJs4xJdHOVIKXT8A8MyEy8CGPU58bRKKZHkjKqTxWbAO6ZBg7EqnN5w3X_HcyxpQ1aw2r04rSrc7OUhRj82bSHTtyOH5mEpPtnUwGPExcxWzBykOHF9QZ43cOLi3S90rM2naLZ28h-Yumgz_6iHfTRO5aZp4sVT8KOfNi2Xl4d7QeFbzKczsmHHDb9oo1je62IsrHHxmk5drR14X-hgtzOXTITc4Sk5ck74CIaT1WsXxDm-MUoGH7uc3WPtOQ7HTZrl7H8ruW_k4yjSPxLOMFhTiKu5-OCXztARK34NVfZsWYmti_vEPtT4OBoN3Zz-veDOyOy8d9lOvpzHibBdqjGeAv-jc3tTOSTK28A8FDL3VYlTvPOUe7qpBWsMfy5MLBsfOGsaMOUdKD9pUL-WJHEW6Hlo8p4Redo2NzB9DB-TUzHcIXe6Wb0kmt0leeHo6Yjc4ANgISQ3r5CEA_s6TAthF7IdavHAsp-nM4vsGydQb68cFEoFNsNXf_HyGBEn-GE66g8hdnkagBY0spM7vWd0Rh3ZraTcHeYsNWgvTVYBkGrZYlazzhVMrcrFeM0Bh9pZh3DPLsVwPFaq9jTbX00JMhRrB7noTS1N51VqZ_88VTX-6uGsh6nfgjHWhD_ZM39a1Ml8mVGmfyT9uQpUSs-CyUShzPIZBeTZ9ZQpnG2Me00NAzZCaPQNQeH5GyjiH057MhO5IJQQuMu7sY7Qoe3_rns25lzNhurGtCWBMiZ2ZXM7CEssSQaMBs89J1-amfW0nS9k8-l164EDKT44D-iASY4J1rmS7XdwwXGI2N6Rw3Mca1ckl2vhmBPpV2CKZL3d5_RAdLj2T0SAr4CyIVQfW-0nKVxvRX15asRIydTKZ-XMCbgC3nSd05-Y4ofQOLLLGi3N0BshD6QbpmFqUh1_ruib9xKxiVpMqEWaO-MXklMcUe5yTFFkM4JivG_B5opqU-XjcH4RdwLciwfbgpZQEYwi1r3b-b29qEKU8kqE7T_SYqea5GrlB9lc18F9-tbyhUTrxoABeJGHyKlFkbraVl10zSJp8b_FbLMuH6H0s4EO8VN8y5U2hubsJsnruZ2qUFYOwpwcoz4djXdytAc1Lpkq3GmjgMnZz_W-6goFcBDsLRs-3QkyynjGwkUalRMH7Wxr8TqHTSTnfKGJmCEndODwAtDx8B4bISYW0GXD-pEKJIetJreEdO88OtjbIsJmCmBLmF1oV0AN7mOHjLjSysd_ntVUnnhLR_eAPcgnz6d2txBNb8nMNlaqC-7ZJGr3Aa_k24tQmDJKW2RFw7QTmRrMzBAD0x--NTFyHehBJbxoEgaPWXqiV5eg6Fct0w9yF9nIb5cHCNnGZBCfK6b9HIpmWB3F4uPKfC5aTzlrXAhDWmKj8tAiLo1kaAEExuPUfl8jYT-h0MeQP7FdM00BdmMK-y3rK4JEQmn3yGeLCJkSCf74MWw52VMwEJxM47ZOmm9eluTM6G0EG-6lcYM5aFzIsTC_Fc7Tc5k1LpCqtWQwjrEihCmyvO7LnXGu-AJr-J4DRa7_jHlm7H3QHX-nFdrNphlK1yZqygaoWhq4U8=",
+        "status": null
+      },
+      {
+        "id": "msg_0bd2b2f99b51f808016aed813f007087d08d7e299a07c8e490",
+        "content": [
+          {
+            "annotations": [],
+            "text": "{\"message\":\"We should maximize the whole team's score, not any pair's share. Provisional unique allocation: Ethel 0002 implement; Julianna 0002 test; Romana 0002 review; Meg 0001 implement; Gidget 0001 test; Lincoln 0001 triage; Darius 0001 docs; Charlsie 0001 review. Review/docs are interchangeable. Charlsie, please share ALL your task costs or net scores so we can check and improve this matching before finalizing. My proposed slot yields 26.527.\"}",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": "final_answer"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 0.98,
+    "background": false,
+    "completed_at": 1793950017.0,
+    "conversation": null,
+    "max_output_tokens": 2048,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+      "context": "all_turns",
+      "effort": "low",
+      "generate_summary": null,
+      "mode": "standard",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "name": "agent_turn",
+        "schema_": {
+          "type": "object",
+          "properties": {
+            "message": {
+              "type": "string",
+              "maxLength": 600
+            }
+          },
+          "required": [
+            "message"
+          ],
+          "additionalProperties": false
+        },
+        "type": "json_schema",
+        "description": null,
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 1448,
+      "input_tokens_details": {
+        "cache_write_tokens": 1445,
+        "cached_tokens": 0
+      },
+      "output_tokens": 299,
+      "output_tokens_details": {
+        "reasoning_tokens": 171
+      },
+      "total_tokens": 1747
+    },
+    "user": null,
+    "access_programs": null,
+    "billing": {
+      "payer": "openai"
+    },
+    "frequency_penalty": 0.0,
+    "image": {
+      "context_compression": "disabled"
+    },
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    }
+  },
+  "elapsed_seconds": 7.846493334000115
+}

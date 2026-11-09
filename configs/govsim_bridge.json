@@ -1,0 +1,20 @@
+{
+  "paid_enabled": false,
+  "scope": "govsim-bridge-v1",
+  "additional_cap_usd": 2.0,
+  "shared_govsim_oasis_cap_usd": 45.0,
+  "indices": [
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29
+  ],
+  "max_calls": 330,
+  "deadline_utc": "2026-11-09T03:00:00+00:00"
+}

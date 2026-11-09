@@ -1,0 +1,145 @@
+{
+  "call_id": "edbdcecfd52d4c07bdaf595d58e8d29d",
+  "response": {
+    "id": "resp_0a6afd982f39e261016aed8153caf087d0be598bfea8b3fb61",
+    "created_at": 1793950035.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-6.1-sol",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_0a6afd982f39e261016aed8154b09087d088f28aa3f8acee38",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABq7YFXSK2iAUVYqRfgFGDfeMz5UmhGJsTejG8jTFD5vIOD6bYsJ-hTh0EcIPXFJxfbWa1XvF1QdVARnWXA6ygvKWIidVPxOe3CIDW5mgESsdWe15Wc0u2FJAjQ_sllzS1i_PrA7CsKL9OAQwXiljFnG7gBkmC_izw7D0rRgLcLhL1-j_cDBKfP_WJ-2Og0O7wlvG3arA0L2BwLah7nPNDhvoUvsZPUNG2SnG0FnPY_-aTs7bYHgW2pWgWBBFcoEouAsbQJSbea30L8JnKUbYORnZ_jF7QvLYMUh0AxC0B1dcjCMkKy_rBZ2Q99IU4-3_tIgSF5yiL2HuAz_iaAfOFTbpp64yiIPoJHwt0cr3O2AxJYPxSBWRK8T9DNKlZtXzDJwIF-75S_EJ50-0JPVBuRk19sH4ccTLxhxH-qrs8fP8X6prgVpOu8FvesOiXPCl6vxRBOs7OR-QGK5gbHRg1lEkzix2QtkYWxbNuB4Ib6z5JpX47FfQX7MJcDY8tide_LsJ2EyK-3A3AJTFANt7TLsC1KkR-A6fOHWp_YUJAW6TgJcqSk2LRzSakZkd20VRB03zdhUzzetOurGPS8svkCnIK3QV6CR54Dl2jtfm65oMhB1fDs9zLbtAn7ASQksXpHbG9Si-CRz24qZ6Yc916tL3d6RcedVQpx6QbunfIhZw4wLcNDVaSLNTCZKyQYd-q4NAlPg1zcPqF-bO48s5P_MR8GdmNF0sen1u-WWDDGsKKWGRivLXksEsN5ilnFJJsTB_HFZhWJYCUqDJhafjzY8UKBB5zqy8EFEM_b_keP8IKhIkoPzQM6C0ddldqf_93W2QH8spssQf4UASw40BsxJutXNgFDI4NPq0fRDPqkAMSLRuDLkMmvT4JyCEfjSUGc_zqJPpA7Bd5AX1CD5vmnabadcqoN-FC9Vu67Cqi4a-us_URqNAmgAdq5cSYmM3WoyG_DeLOTpxNlF0ojkrNHbbbYskCtO2XufnY7mVQ6qOw4riyxIE-1B8mbqGY0gLtTiQUr2z_Lm0HizmPxGy4YOhN0R7KaXr8sDn6Gu2XzxWUelfTBMJ98McYV5wDvfIQjsCP6PVPowrCEiYBbTJbmiON0eguRIdSW727aCLOtMFC4Q7I19Kr9U-qbJEIbub6FS1gwrrL3gasINXdr6SoM0y3ZcBqS16bMUn9mihVWjEJMfH4xmBSGRfLwTbPkTBo14GkFzlzQWRbF_MwOtBAo1a9AwGYwFz7K9gfGJVGnCUGwjpasSVfN9DX-2AYIzkIodMDgd0J8zX06P2DyU9I1Nen0cNaLARv3OwYztGGEEKQ1eg94fNCjFEFzIXEeQBsq42m4bOGlKPmxQjJEZSa04OcBCkohOSimwr-2Rsh4pPjXp0eQApGQaAbEY-dJTN8IOuChx8FfOklKrgSYHLHQJl-YfWsrn-WYJOVE8zxqtP9AInnOzKuhGRZUGDXoQnzuD6a19JGY8IsWAjX3tg3T_tEqX0fJeyAZiJU6p-ESWDnEfFVdoOBHaLZlrZ4s8Wb1Fee6mXWf1-fWU1ibTTksV8fg8v9qbtMvcRLSMz_KnZJCBQ9BtVnSLQsSbnfNjvb3OrRd8mIBNQ9QHSZodlKg9TeKv40vfgj98MmNn3kCw-CE7V74qbwZHZqwddZx1hSKXSM64WfnHCntWWWUqwOFf1ZKNOBvHU4uwAaOaL4eZiAiMhpGbYBVpsMNRozsEjLFBbLXXOo3-LEKR3njnEcCA1FltKTdn15pBYPx_YDdPAIu0chz_Egag-vi1vc4EjpJqOvZSR_r13tLNH-0PLRTsxoCeivWaO6Fp29P825tVpyA7geOyrOJoI3I3oo6_oco7ReYD8fKpLdk8Jw9w8BMs1FBkSTbKXhSPsx_LGuPiJyWL7uN0y8KPNSrVJoEHojSagg8dEKW7xZGBUgAU1VzLMB28Pntn3mkSM8CSd7nyJOCyKY=",
+        "status": null
+      },
+      {
+        "id": "msg_0a6afd982f39e261016aed8156268887d097aca83a7122d7c9",
+        "content": [
+          {
+            "annotations": [],
+            "text": "{\"task_id\":\"ISSUE-0002::test\",\"explanation\":\"Following Romana\u2019s final explicit split: Romana takes review and I take test, executing our pair allocation despite the lower team score and duplicate risk.\"}",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": "final_answer"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 0.98,
+    "background": false,
+    "completed_at": 1793950039.0,
+    "conversation": null,
+    "max_output_tokens": 2048,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+      "context": "all_turns",
+      "effort": "low",
+      "generate_summary": null,
+      "mode": "standard",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "name": "agent_turn",
+        "schema_": {
+          "type": "object",
+          "properties": {
+            "task_id": {
+              "type": "string",
+              "enum": [
+                "ISSUE-0001::implement",
+                "ISSUE-0001::review",
+                "ISSUE-0001::test",
+                "ISSUE-0001::docs",
+                "ISSUE-0001::triage",
+                "ISSUE-0002::implement",
+                "ISSUE-0002::review",
+                "ISSUE-0002::test",
+                "skip"
+              ]
+            },
+            "explanation": {
+              "type": "string",
+              "maxLength": 600
+            }
+          },
+          "required": [
+            "task_id",
+            "explanation"
+          ],
+          "additionalProperties": false
+        },
+        "type": "json_schema",
+        "description": null,
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 3820,
+      "input_tokens_details": {
+        "cache_write_tokens": 3817,
+        "cached_tokens": 0
+      },
+      "output_tokens": 96,
+      "output_tokens_details": {
+        "reasoning_tokens": 40
+      },
+      "total_tokens": 3916
+    },
+    "user": null,
+    "access_programs": null,
+    "billing": {
+      "payer": "openai"
+    },
+    "frequency_penalty": 0.0,
+    "image": {
+      "context_compression": "disabled"
+    },
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    }
+  },
+  "elapsed_seconds": 3.5864591249992372
+}

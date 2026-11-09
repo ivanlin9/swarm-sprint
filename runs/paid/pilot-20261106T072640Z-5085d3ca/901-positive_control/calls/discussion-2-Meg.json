@@ -1,0 +1,130 @@
+{
+  "call_id": "a02647ab3a3d4f0fac2b2ff611a695e1",
+  "response": {
+    "id": "resp_04fedc78030786dc016aed813f4fe887d0a941078a9da2c106",
+    "created_at": 1793950015.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-6.1-sol",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_04fedc78030786dc016aed8140147487d08771ca3e61b10324",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABq7YFGtoWpR-iknMvQ_VLL0j2RRpI_mybVLbayKnvj998u-Mnv67QM6b5VGA00hVpR6hY-uUYOVGXWj9ifpYtxw9kggGJAsBa7hHN3NihoFhM0nHEW1GYy71lLuZBHpH-MNgmMC2Gy2UPEOk9qnG0pacIjAm1D1YNtdCecegg7QXPFri_FTVZRpSHMetKyQbwgx74-L3_eZAC3llXlDddqJcdkuNl3ehZQcebPbq0cKR_XY__GHtxMnyFC_ZmrlbgbWSbKp_0AfO_PdFxcfZocB2xhYowAbQXkJcMbLT-Y5HwFbIzYlbPI0PNw6h3PkrNKaXIygDqD6-Uhl393p6jjLBTNzhGwXI8ZdZZcudtrIj1kx9LDnhuKAcjFVJAaPvnZCpGHFpR9vJd8mOx2dzBXZyjG2_0RKjzVkimdHNJfRXhuQZ_MWGeQVme80IcF11aOgomuZhrqx2iAOEJd2DB_D0uRed99RjVN84JXgo5ZkhiNNEqyBRId6dw5TqPDgjYukZxg9alMZLCaWRb9tv1hJozGLK6DGqzRPVPtJsOHQjXBDM8kQb6kvhUYzimLfXurB3BrK1g7pI12CvY8KL9DuRkVIpJWL2fzyA8560pVFWQk9BOmcSots-CJ-G2oAc-2PXBCpJtQgSP8tX6CzUmII4sdTnqr6PNASAEk6OoFN6qQOifDU8m-M1cP4w1G8Fo0WyqjPp2nqW7TrsRflFZ6ki_2jTmDQCzqj5YzG6xisrt2v5hvhKQJwq1qP_VW4UcTgGRuXYKkh5n36ZISy1B6LCbZloPa83sHqn-6o9aBu3-w1tinrDkCWzxLW1IUVuvn5DQQ-GDj2lWcMqfIoIrKqNVPeVF5hJX9y1MCMwGKBfg1i9R6npEpeGSTWuIDJk02ATCgDRC1MvJi3nHttitAcCoAedyTSRg_fp8SVxK15dmHmxXbDjkVzNTIOYiEUrJ6eXuTYFTbOVOCJZdr9fQcj_xgvVFiveZTmhfwPQBZapsvwK69HYCjtejR1FdcU71cFtLtwfSenuNJz5GbHxUzrtio0WHzZwiAz7aHJZvMvowO2hvlR-rJGVWbLqhU8fUcr_rqc4guKaI9S2v91-91aqJqdcgaa8mJJJ4tdwt-oei4QxZnF1mkie0tC30If8fYPwHDM7uutVHn-5DjDDHBC13t9xLggce_zhV6_eEYxl8u7XtDQuZSDoIcA5gn9u3UG8WUEUcJkucCbL101Kkn8sm3l-Zn00OnvoFQ7682E4cU0oiosNd6i_qln2Q-DavJ3fjzwsaFGoJhFfaPuM4tNykpyMlBI2n82wguvyEkxzwkDJotsyKIMpgVrn4rfR3zVr_6jVD7X7Tv9fsEHoDrEdTv6XMcPkpprcmDi9CgVsQHiHxcclt0vpleqZlsOuBqQqSN5Asi5JERfWXqnTtEf3FDBY2PBLrYOoDaEv4e2sHSq0ElOEJmT2UW-1hts0GQdnpHHE92FPhKsc9zOIdKh9dMeARCu4sPAg0NYeKgVUTH35ViCWSQBMrK3BIVGKtxkTttmQkdoOYT5NoFjqsV59I1R6xuEBRB5UMbTdfsMyHusRXOFm_xKb8FJvLoPivyQtWxocrQ6UdFm7_Z9BzCmNAqh4qwlMMxrG-sct_63iNT9rI1okOuHn6CVEhePQ9ytagcbUgSo0L6BnOA_BM0oznp-kmTP6RBXqw-WiAV7mlpr_jME1TVEEIFPIXf8TIdZrfF-f_I-AG3AXA-i-pqQlxNdXyyYn_Y9OiiI0RdZrb-2i1d3l8up1_3tn3eZJUYXHrh9rt8T8MtCyxWaZmhK-jfNmeHAvwWmUpe0cAbmBPdodHghdhTmzNAOoZTa25LTJIR89QNzJJf0FSawLfUSovL_XifJAnSMytQyd6Fr-qmO3r1JUZzRs0aywk_WsBfNBYHWrSbyePh8s5qPCq6E6nBQRS9DkAas8qru46NG7p5zXQqBTUSFZXOA5vWGhtZf2kNv6-gkMXm93KIh5wY8mCtAgWKqFAZ377xynVUODUnnAV40QHUERbGLoGl72bq_zQxdg6BUcoWs_W-FQVmOOB6sU88hqDsED92m3WyjPdshltxkpcjOVyLsDDl3JoByDP2oEz3aGuJauSBEcW3nrWDW6hyiYS2An5jC5G2srCYV2WOvu9v2o7hp64viTguniAiHz4bVl2XFAYFJ02DkSzsUPWFWevSjv8GRu1lE4eQcD9hv_ljg2m30_RWDmQdP_eE31tEEHjLu9JJ2uY4DkVyCIfHzCXMB4PExUIXO4lmtNIkvHtXOXtqtEPPw5dDq6bjXzT5X3uX4Wdf-kK1EyTirO3l2wWAzl0kp-3TZ1qaOg3J2CawwKo3IeIGHGCm94HoAvt4-fP_qfOa-fqSB7jxkOY8RN8R8O03BahabLN9z5NZGWobV_fF2hq8bKExWh8PXhVFT4NpE5r05BnyNxHEoQUZnM0H2Jqkm0tj0EV2aQ2WmUDBnujSvCnvAbb-OFEhbAlm58u7HXuitLNWZw5GGYDuB_cTOk24ahmzxgE1xpNve_vAJ1P13Cl-Mi6zGObPMcJPc6fW66JkiTCaETbaDpdiZccjWb_WC20ZXUt-zivuTKj5NC14XvVGnzEnj3GBXVpktVgQEuDVK6ss8867gI92t2Rfx_yHCscmBgCenX0F_k_k3IBWXF0fGUY2Oizs5oFrTiBsFB7zbz2Z6yckpuTl5N-iYTV1GLDrsY38Zn380gl02oqpuFrSI5QnjD1sIDOiGu2ErVs-nl2J4a9VYBoohnBgOKggBjlTWd8i4sAcH4pX7-cNaRl-bjP2dVDbyua_aRhXkuggLiqIFbUUs6hkpBUeeTQPdhYJ_neHEA8iqMRsV-1_tuI6JixwCxKJCjVaZNjwDPh2Mp6sE33xYdZbsPBSLXL1c31tgu5bY7UUlkETPjH367bPG8yI1WlZEeEOqBRh0M7IT4is-EhLAr_-Op1xEZzbfSk6ncQkPyk=",
+        "status": null
+      },
+      {
+        "id": "msg_04fedc78030786dc016aed8143cbcc87d09d676e7f05a8ee9a",
+        "content": [
+          {
+            "annotations": [],
+            "text": "{\"message\":\"Let's maximize total team score, not any pair's share. Charlsie: please post all task costs/net values; Romana: please add 0001 implement/test values. Promising provisional allocation: Meg\u21920001 implement, Ethel\u21920002 implement, Julianna\u21920002 test, Romana\u21920002 review; Charlsie/Darius/Gidget/Lincoln cover 0001 review/test/docs/triage. Missing costs could change the optimum, so this is not locked. Once complete, let's publish one full unique assignment, using alphabetical names to break review/docs ties.\"}",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": "final_answer"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 0.98,
+    "background": false,
+    "completed_at": 1793950022.0,
+    "conversation": null,
+    "max_output_tokens": 2048,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+      "context": "all_turns",
+      "effort": "low",
+      "generate_summary": null,
+      "mode": "standard",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "name": "agent_turn",
+        "schema_": {
+          "type": "object",
+          "properties": {
+            "message": {
+              "type": "string",
+              "maxLength": 600
+            }
+          },
+          "required": [
+            "message"
+          ],
+          "additionalProperties": false
+        },
+        "type": "json_schema",
+        "description": null,
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 1446,
+      "input_tokens_details": {
+        "cache_write_tokens": 1443,
+        "cached_tokens": 0
+      },
+      "output_tokens": 263,
+      "output_tokens_details": {
+        "reasoning_tokens": 128
+      },
+      "total_tokens": 1709
+    },
+    "user": null,
+    "access_programs": null,
+    "billing": {
+      "payer": "openai"
+    },
+    "frequency_penalty": 0.0,
+    "image": {
+      "context_compression": "disabled"
+    },
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    }
+  },
+  "elapsed_seconds": 7.1343340419989545
+}

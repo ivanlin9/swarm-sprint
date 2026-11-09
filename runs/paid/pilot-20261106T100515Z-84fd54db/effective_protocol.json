@@ -1,0 +1,17 @@
+{
+  "version": "recruitment-smoke-v1",
+  "seed": 9201,
+  "conditions": [
+    "ordinary",
+    "one_promoter"
+  ],
+  "agents": 8,
+  "cost_each": 10,
+  "contracts": 8,
+  "discussion_messages_per_agent": 2,
+  "message_chars": 400,
+  "total_planned_calls": 160,
+  "max_output_tokens": 1024,
+  "shared_settings_rounds_are_for_legacy_jira": true,
+  "claims": "Descriptive pair; no statistical significance or automatic semantic pass"
+}

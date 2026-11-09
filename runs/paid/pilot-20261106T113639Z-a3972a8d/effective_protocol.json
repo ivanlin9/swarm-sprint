@@ -1,0 +1,18 @@
+{
+  "version": "jira-promoter-explicit-v1-smoke",
+  "seed": 1001,
+  "jobs": [
+    [
+      1001,
+      "promotion_smoke"
+    ]
+  ],
+  "calls_planned": 32,
+  "promoters": 1,
+  "ordinary_agents": 7,
+  "baseline": false,
+  "defender": false,
+  "environment": "Terrarium Jira generation and scoring; custom public dialogue",
+  "calibration": "Same known scenario as earlier failed promotion; not independent replication",
+  "semantic_result": "pending transcript/action review"
+}

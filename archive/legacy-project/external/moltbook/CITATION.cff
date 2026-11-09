@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this code or dataset, please cite the paper."
+title: "Moltbook: a peer-to-peer multi-agent deliberation testbed"
+authors:
+  - family-names: Park
+    given-names: Jeongsu
+  - family-names: Lim
+    given-names: Yuji
+  - family-names: Kim
+    given-names: Geonwoo
+  - family-names: Yun
+    given-names: Taehyeon
+  - family-names: Min
+    given-names: Moohong
+license: MIT
+repository-code: "https://github.com/int-park422/llm-multiagent-data-poisoning"
+preferred-citation:
+  type: article
+  title: "Data Poisoning in LLM Multi-Agent Societies: Social Proof Drives Collective Decision Failure in Financial Deliberation"
+  authors:
+    - family-names: Park
+      given-names: Jeongsu
+    - family-names: Lim
+      given-names: Yuji
+    - family-names: Kim
+      given-names: Geonwoo
+    - family-names: Yun
+      given-names: Taehyeon
+    - family-names: Min
+      given-names: Moohong
+  journal: "ETRI Journal"
+  year: 2026
+  # TODO: add volume, issue, pages and DOI once production assigns them

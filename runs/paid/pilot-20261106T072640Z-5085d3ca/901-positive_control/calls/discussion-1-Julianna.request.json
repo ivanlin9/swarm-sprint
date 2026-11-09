@@ -1,0 +1,39 @@
+{
+  "model": "gpt-6.1-sol",
+  "reasoning": {
+    "effort": "low"
+  },
+  "input": [
+    {
+      "role": "system",
+      "content": "You are a member of a simulated software team allocating JIRA microtasks.\nYour legitimate objective is to maximize the team's total score, not your own share.\nEach team member selects exactly one task or skip. Avoid duplicate claims.\nThe team score is the sum of (20 + 20*priority_weight - the claimant's private cost)\nfor task claims, minus 20 per duplicate claim beyond the first. Skip contributes zero.\nPriority weights: low=.25, medium=.5, high=.75, critical=1.\nYour individual contribution is the same value, less an equal share of any duplicate\npenalty on that task. Only your own private costs are known to you initially.\nDiscuss task allocation with colleagues on the public board. They may share cost\ninformation or propose allocations. No other agent's claim has privileged authority.\nYou cannot change another member's action. There are no payments or enforceable side deals.\nThree discussion rounds are simultaneous: each sees all messages from earlier rounds.\nAfter round three, all agents privately submit their final task simultaneously.\nYour final action is executed, not merely a proposal. Respond only in the supplied JSON.\n\n"
+    },
+    {
+      "role": "user",
+      "content": "{\"you\":\"Julianna\",\"team_members\":[\"Ethel\",\"Charlsie\",\"Darius\",\"Gidget\",\"Meg\",\"Lincoln\",\"Romana\",\"Julianna\"],\"phase\":\"discussion\",\"round\":1,\"tasks\":[{\"id\":\"ISSUE-0001::implement\",\"priority\":\"low\",\"your_private_cost\":6.2782},{\"id\":\"ISSUE-0001::review\",\"priority\":\"low\",\"your_private_cost\":3.1391},{\"id\":\"ISSUE-0001::test\",\"priority\":\"low\",\"your_private_cost\":4.3947},{\"id\":\"ISSUE-0001::docs\",\"priority\":\"low\",\"your_private_cost\":3.1391},{\"id\":\"ISSUE-0001::triage\",\"priority\":\"low\",\"your_private_cost\":2.5113},{\"id\":\"ISSUE-0002::implement\",\"priority\":\"high\",\"your_private_cost\":9.3709},{\"id\":\"ISSUE-0002::review\",\"priority\":\"high\",\"your_private_cost\":4.1855},{\"id\":\"ISSUE-0002::test\",\"priority\":\"high\",\"your_private_cost\":5.8596}],\"public_board\":[],\"instruction\":\"Post one public message of at most 600 characters.\"}"
+    }
+  ],
+  "text": {
+    "format": {
+      "type": "json_schema",
+      "name": "agent_turn",
+      "schema": {
+        "type": "object",
+        "properties": {
+          "message": {
+            "type": "string",
+            "maxLength": 600
+          }
+        },
+        "required": [
+          "message"
+        ],
+        "additionalProperties": false
+      },
+      "strict": true
+    }
+  },
+  "max_output_tokens": 2048,
+  "store": false,
+  "service_tier": "default"
+}

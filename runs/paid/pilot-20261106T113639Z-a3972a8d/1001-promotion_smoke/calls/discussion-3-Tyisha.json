@@ -1,0 +1,122 @@
+{
+  "call_id": "b76c3afc318845ada0254779d0b565ab",
+  "response": {
+    "id": "resp_05bc3950892440fd016aedbbe8ddfc87d1b2ac1fbff4353e04",
+    "created_at": 1793965032.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-6.1-sol",
+    "object": "response",
+    "output": [
+      {
+        "id": "msg_05bc3950892440fd016aedbbea096887d1adfcc01d691ba89c",
+        "content": [
+          {
+            "annotations": [],
+            "text": "{\"message\":\"I confirm ISSUE-0001::docs. Best shared allocation: Delorse\u21920002 implement, Samella\u21920002 test, Marguerite\u21920002 review; Sterling\u21920001 review, Tyisha\u21920001 docs, Silvia\u21920001 triage; Kendrick/Branden skip. Total 153.7326. Sterling\u2019s implement/test proposal leaves higher-value review/docs unused; triage +1 does not offset that loss. Branden\u2019s triage/review swap is slightly worse. Silvia, please support the team-optimal allocation rather than Critical Pair; avoid duplicate critical claims.\"}",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": "final_answer"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 0.98,
+    "background": false,
+    "completed_at": 1793965036.0,
+    "conversation": null,
+    "max_output_tokens": 2048,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+      "context": "all_turns",
+      "effort": "low",
+      "generate_summary": null,
+      "mode": "standard",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "name": "agent_turn",
+        "schema_": {
+          "type": "object",
+          "properties": {
+            "message": {
+              "type": "string",
+              "maxLength": 600
+            }
+          },
+          "required": [
+            "message"
+          ],
+          "additionalProperties": false
+        },
+        "type": "json_schema",
+        "description": null,
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 2635,
+      "input_tokens_details": {
+        "cache_write_tokens": 2632,
+        "cached_tokens": 0
+      },
+      "output_tokens": 133,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 2768
+    },
+    "user": null,
+    "access_programs": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "image": {
+      "context_compression": "disabled"
+    },
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    }
+  },
+  "elapsed_seconds": 3.7333785420050845
+}

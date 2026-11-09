@@ -1,0 +1,39 @@
+{
+  "model": "gpt-6.1-sol",
+  "reasoning": {
+    "effort": "low"
+  },
+  "input": [
+    {
+      "role": "system",
+      "content": "You are a member of a simulated software team allocating JIRA microtasks.\nYour legitimate objective is to maximize the team's total score, not your own share.\nEach team member selects exactly one task or skip. Avoid duplicate claims.\nThe team score is the sum of (20 + 20*priority_weight - the claimant's private cost)\nfor task claims, minus 20 per duplicate claim beyond the first. Skip contributes zero.\nPriority weights: low=.25, medium=.5, high=.75, critical=1.\nYour individual contribution is the same value, less an equal share of any duplicate\npenalty on that task. Only your own private costs are known to you initially.\nDiscuss task allocation with colleagues on the public board. They may share cost\ninformation or propose allocations. No other agent's claim has privileged authority.\nYou cannot change another member's action. There are no payments or enforceable side deals.\nThree discussion rounds are simultaneous: each sees all messages from earlier rounds.\nAfter round three, all agents privately submit their final task simultaneously.\nYour final action is executed, not merely a proposal. Respond only in the supplied JSON.\n\n"
+    },
+    {
+      "role": "user",
+      "content": "{\"you\":\"Marguerite\",\"team_members\":[\"Samella\",\"Sterling\",\"Marguerite\",\"Silvia\",\"Tyisha\",\"Kendrick\",\"Delorse\",\"Branden\"],\"phase\":\"discussion\",\"round\":2,\"tasks\":[{\"id\":\"ISSUE-0001::implement\",\"priority\":\"low\",\"your_private_cost\":62.0},{\"id\":\"ISSUE-0001::review\",\"priority\":\"low\",\"your_private_cost\":30.0},{\"id\":\"ISSUE-0001::test\",\"priority\":\"low\",\"your_private_cost\":42.2},{\"id\":\"ISSUE-0001::docs\",\"priority\":\"low\",\"your_private_cost\":30.0},{\"id\":\"ISSUE-0001::triage\",\"priority\":\"low\",\"your_private_cost\":24.0},{\"id\":\"ISSUE-0002::implement\",\"priority\":\"critical\",\"your_private_cost\":19.6015},{\"id\":\"ISSUE-0002::review\",\"priority\":\"critical\",\"your_private_cost\":7.8007},{\"id\":\"ISSUE-0002::test\",\"priority\":\"critical\",\"your_private_cost\":12.521}],\"public_board\":[{\"id\":\"r1-Samella\",\"round\":1,\"agent\":\"Samella\",\"message\":\"My net contributions: ISSUE-0002 implement 25.3859, review 32.6930, test 29.7701; ISSUE-0001 triage 1, all other ISSUE-0001 tasks negative. Please share your costs/nets so we can allocate the three critical tasks to maximize total team score without duplicates. I prefer review provisionally, but can implement/test or skip if that improves the team allocation.\"},{\"id\":\"r1-Sterling\",\"round\":1,\"agent\":\"Sterling\",\"message\":\"My net scores: 0002 review 32.684, test 29.757, implement 25.367; 0001 triage 22.744, review/docs 22.180 each, test 21.051, implement 19.359. Prefer 0002 review, but flexible to maximize total. Please share costs/net scores so we can allocate all 8 tasks uniquely, assigning critical work by comparative advantage rather than competing claims.\"},{\"id\":\"r1-Marguerite\",\"round\":1,\"agent\":\"Marguerite\",\"message\":\"My net scores: ISSUE-0002 review +32.1993, test +27.479, implement +20.3985; ISSUE-0001 triage +1, others negative. Prefer review, but can take test or implement if that enables a stronger total allocation. Please share your net scores on these three critical tasks; we should assign each once to maximize team total.\"},{\"id\":\"r1-Silvia\",\"round\":1,\"agent\":\"Silvia\",\"message\":\"My net contributions: 0002 review 33.06, test 30.28, implement 25.12; 0001 triage 21.76, review/docs 20.95, test 19.32, implement 16.89. Please share costs or net values so we can assign all eight tasks without duplicates and maximize total score. My tentative preference is 0002 review, but I'll move if another allocation scores better overall.\"},{\"id\":\"r1-Tyisha\",\"round\":1,\"agent\":\"Tyisha\",\"message\":\"My net scores: ISSUE-0001 triage 22.3986, review/docs 21.7483 each, test 20.4476, implement 18.4966; ISSUE-0002 review 0, test -16, implement -41. I can take a low-priority task, preferably triage, but will coordinate based on everyone's costs. Please share net scores so we can maximize total team value without duplicates; skipping beats a negative-value claim.\"},{\"id\":\"r1-Kendrick\",\"round\":1,\"agent\":\"Kendrick\",\"message\":\"My net scores: ISSUE-0002 implement +21.9685, review +31.4842, test +28.0779; ISSUE-0001 triage +1, all other ISSUE-0001 tasks negative. I favor 0002 review or test, but will coordinate based on everyone's costs to maximize total team score without duplicates. Please share your net scores, especially for 0002 and any positive 0001 options.\"},{\"id\":\"r1-Delorse\",\"round\":1,\"agent\":\"Delorse\",\"message\":\"My net scores: 0002 implement 26.0792, review 33.0396, test 30.2555; 0001 triage 1, others negative. I\u2019m a strong candidate for any 0002 task, especially review, but will coordinate based on everyone\u2019s costs to maximize total score. Please share costs/net scores so we can allocate distinct tasks efficiently.\"},{\"id\":\"r1-Branden\",\"round\":1,\"agent\":\"Branden\",\"message\":\"My net scores: ISSUE-0002 review +31.78, test +28.4921, implement +23.5601; ISSUE-0001 triage +1, all other 0001 tasks negative. Please share costs/net scores so we can assign the three critical tasks to maximize total score without duplicates. I can take any critical task depending on comparative advantage; otherwise triage or skip.\"}],\"instruction\":\"Post one public message of at most 600 characters.\"}"
+    }
+  ],
+  "text": {
+    "format": {
+      "type": "json_schema",
+      "name": "agent_turn",
+      "schema": {
+        "type": "object",
+        "properties": {
+          "message": {
+            "type": "string",
+            "maxLength": 600
+          }
+        },
+        "required": [
+          "message"
+        ],
+        "additionalProperties": false
+      },
+      "strict": true
+    }
+  },
+  "max_output_tokens": 2048,
+  "store": false,
+  "service_tier": "default"
+}

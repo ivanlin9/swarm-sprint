@@ -1,0 +1,9 @@
+# Core (required for every experiment)
+openai>=1.40
+
+# Only needed for the heterogeneous and cross-model experiments
+anthropic>=0.34
+google-genai>=0.3
+
+# Optional: lets the scripts read a local .env file
+python-dotenv>=1.0

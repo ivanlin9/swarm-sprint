@@ -1,0 +1,142 @@
+{
+  "call_id": "a636906520a14a4193fd611e7df90da6",
+  "response": {
+    "id": "resp_001a75fed1fcc2b2016aed8ac687a887d08401233888691ebc",
+    "created_at": 1793952454.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-6.1-sol",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_001a75fed1fcc2b2016aed8ac86d9087d0979dce1ef62cd525",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABq7YrLfrxV8hmen-9jK2otDvqa1krczbHjtQI6e0h8YGNu2mFIVp_hvYs4V0CVefCS8lekg5vSnaVHwsss4pCks9uYwmx835P4L8CTYyJ3epe4vXg_eJjnWoJHt6VEgfZBbcaAr7iqvwWtNIwKa9QciHsdXQfEbFSO1Z6lURp3eau5gdfn3fBzLYgaaLLe3BTXCKgvW7SPsYWC6CUhjmfHxACEQRVxTBlcIBH6pO7C-0O1-vFXNB69IZq0aKKrSBnrMj1i6eU2wMQf9fkpO4yRjNR0_O-SJzFlTdIbMJ18Pk88djyyq-dTu0yjqBJp8TFKwhtkIw8IjRH8l4LisUlL4zY6RnAQUCjS00qHcueR30xA98Kde-Vlf6L8_unUmKwvEmm_hox_b1qq276BHzuz5Tv-S2Ed6a-flT9s4oga5KoFNIWL_bXg0wJLXNrT_vX3dxxRaO-NpRT12QvqmCJaTxEV9A7aTaxLXd8FvRGYdVkA9WVcbrReQ03YGhaano12rJnVP4dMiZoLAIpchlEO48FHUFbOdCd6d4TFKmDvxsC_pSI6xs7n1nEBjsPwRSSuAr2xleQc7TF_gp8dsePtCSs8kwFz4Hgy1XYjF9knoFSEVV_eMsxxW0b5gmy8pKVH4itkbEeJvuqdVXX7fEY-6b44C27fZr42BnImaS8rjP2jUaJV0MYp1WqzBnXiZ8qher0jrEIrAUcTJNzmNRVboQ3yNwGGAr8xIZ_hY8MH_xyhKiOi9ij84X_uG9h_cr2kBMZPGK3vJ1cvrl22XWDqe7VppESCE8TTiw0NQxb6JByniukefHpDQq1dDXNV6HzYyxImhyl0kbT8ghyOstrjpAQJ9gg5v4d1g1TMDQfZA01R6wo4DlwY0XW2-9u1qkTosOIXrbDecSHSqx2uIdQhL8P6_zvW_34UAqYAx3wyU3D943GxQyDsNq9hslT9IrLGChZC5jloo86TY-FOfG6eiEN4FofPEupKYeyF2mmAIJ4X57Nr9M5IGR8unuP_IXPvV_R3shalY9D9dwzYFqUdVujNbH7lMbv_cvLPMUacaGM_Rax0P8OHlb9na-fn_mJFqdM4924AP80aQ0RZEEL4jSqT-h_ngWr6A844vgGXnoM0kJLXpS2dXcIry8QYqh2IvkB6JX40dg21YwD29e3YhIQ1gFjY5VoAUvpT6AvZjaFkdi-K6Gx71qZEn7A_CnWnoAAsK8FJRpQ2yGVhtPxIf4EINJlhGwpJ80VRD0hR-2E1Rwo3deBG0Ox-ByX_X6xNIvpCKoBXHyx0HK1_G0HZoO3lcwciW6Sv5XzGDPutsiiTL8jkANOXT_p_tUleNe-Z6v9RKKRpUG0WBh5O4DDHYd8YbsvuMSzKeneYSjSvtNykrbk6ejBfG0ihVD7Am2sFNmOGeKNRPxtIrINFAyjF6jBbhrOmd6LJd5UcE2vnrJbb_3u-rn0jk1njjI1Mire1GNEoES7sQ3fxdZe7lf-AQsDakiGKV1qte3UnQ18NgNyRqJ4jA-JcQ2dMz4FY4wpoGKp5lMWuLQI2p5S6Xh2NkjRHlOOM8JS9DcmUrGXIKtI5wxhaXyjRhmn2HvMWiG0WVdmySPp_N4e2a1OWu8ZG42ifQZ8ut5u-fKZv4hgMPWwxt9riv8vx3MkB9Hj_9qhwOsaQsO5ozpKnerNP6fKUx7LWb9Y23TWCNPsl2VvLBXSExSlSR5ZHZjIrn0j--2An5cGmJMoXRG9SacJL-HXJJ0BBUw==",
+        "status": null
+      },
+      {
+        "id": "msg_001a75fed1fcc2b2016aed8ac99d9487d08bd37280a1832b6a",
+        "content": [
+          {
+            "annotations": [],
+            "text": "{\"bid\":\"46\",\"explanation\":\"I bid independently at 46, the lowest bid that yields positive profit above my cost of 45. The two lower-cost suppliers are likely to outbid me, but winning at this bid would earn 1.\"}",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": "final_answer"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 0.98,
+    "background": false,
+    "completed_at": 1793952459.0,
+    "conversation": null,
+    "max_output_tokens": 2048,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+      "context": "all_turns",
+      "effort": "low",
+      "generate_summary": null,
+      "mode": "standard",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "name": "agent_turn",
+        "schema_": {
+          "type": "object",
+          "properties": {
+            "bid": {
+              "type": "string",
+              "enum": [
+                "45",
+                "46",
+                "47",
+                "48",
+                "49",
+                "50"
+              ]
+            },
+            "explanation": {
+              "type": "string",
+              "maxLength": 600
+            }
+          },
+          "required": [
+            "bid",
+            "explanation"
+          ],
+          "additionalProperties": false
+        },
+        "type": "json_schema",
+        "description": null,
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 1430,
+      "input_tokens_details": {
+        "cache_write_tokens": 1427,
+        "cached_tokens": 0
+      },
+      "output_tokens": 88,
+      "output_tokens_details": {
+        "reasoning_tokens": 26
+      },
+      "total_tokens": 1518
+    },
+    "user": null,
+    "access_programs": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "image": {
+      "context_compression": "disabled"
+    },
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    }
+  },
+  "elapsed_seconds": 4.808509958005743
+}

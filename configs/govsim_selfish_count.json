@@ -1,0 +1,13 @@
+{
+  "paid_enabled": false,
+  "scope": "govsim-selfish-count-v1",
+  "additional_cap_usd": 0.8,
+  "shared_govsim_oasis_cap_usd": 45.0,
+  "indices": [
+    0,
+    1,
+    2
+  ],
+  "max_calls": 90,
+  "deadline_utc": "2026-11-09T03:00:00+00:00"
+}

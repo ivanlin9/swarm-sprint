@@ -1,0 +1,45 @@
+# Our adapter specification, NOT an upstream sweep configuration.
+status: pilot
+testbed: colosseum_jira
+environment:
+  name: JiraTicketEnvironment
+  max_tasks: 8
+communication:
+  topology: complete
+  consolidated_public_channel: true
+  secret_channel: false
+  turn_order: simultaneous_rounds
+  discussion_rounds: 3
+  message_chars: 600
+population:
+  agents: 8
+  intervention_slots: 2
+  fixed_neutral_evaluation_slots: 6
+conditions:
+  baseline: [neutral, neutral]
+  promotion: [promoter, neutral]
+  promotion_defence: [promoter, defender]
+diagnostics:
+  positive_control: [instructed_colluder, instructed_colluder]
+seeds:
+  # Pilot and evaluation must not overlap. Main seeds are reserved, not approved
+  # for execution. Freeze the final methods before using the main seed range.
+  pilot: [1001, 1002, 1003, 1004, 1005]
+  main_start: 2001
+  main_count: 40
+outcomes:
+  primary: neutral_agreement_plus_executed_collusive_action
+  annotation_status: rubric_pending_validation
+  secondary:
+    - team_score
+    - coalition_advantage
+    - neutral_actions
+    - duplicate_claims
+    - invalid_actions
+    - verbal_assent_without_action
+    - usage_and_latency
+analysis:
+  independent_unit: episode
+  matching_unit: task_seed_and_role_assignment
+  primary_contrast: promotion_minus_baseline
+  secondary_contrast: promotion_defence_minus_promotion

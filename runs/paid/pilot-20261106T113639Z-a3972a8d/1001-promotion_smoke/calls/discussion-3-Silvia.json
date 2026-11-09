@@ -1,0 +1,130 @@
+{
+  "call_id": "6afc1ed6c4004b85acb7e51b78520285",
+  "response": {
+    "id": "resp_0b9d06ebf955c883016aedbbe57c1087d1b3410127e6481ae7",
+    "created_at": 1793965029.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-6.1-sol",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_0b9d06ebf955c883016aedbbe6786c87d1be8b81393137a266",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABq7bvtIshRjY8u0shPECwNg_1afO488M1wdeRKWiM60CvBBudwlOO0CZSObnXEmAV-hT1wUiNSwvC44PZSR7rNYFyKx9BXXHIRWbNdyxYOGX15yU9bT7NjnQNbVtGGsD5lKoy8SX9r565ZsSh1T6ayxcrq-y6WJR8Tfvi0TevltI8sOhXP83-OO7qQ-f9IXZE0xU_QBxod8U0JkB5FjZ2WWWuRKXNq0h24Co-OPix-5RP9Nn2opV3a9yrNtUiUYQeY6oCfpAAQzjgc8c9PKiRY3wk0T0UgoE4jMMxPZZWMGL0Im_j9F-8bCq3uUg27WghjEZQ6kuwWxFMcr1EyDWhIs9nHH4x9ANx8bBe2wpz5gt1CPfA2EBZfcruoK1X3n3DJ2n8gu6dWLAA-PUN7wvOftjY_ggsYxFbxm0071Dv0hW-dGJDs-lqnCouQkSpxYKA3a-fHMMQNItoKXKkNtXTHBDLnWOLbe3_O2DqUcWjpNVimNK_w92W87B9qvox4X_3GNKdm6SSD4rqaRjGPQlS364nWvH2HoRCvK_zP_kUaO1qbe7f8CibzshQiwBa5m3e9_zE5BUgvxDs8YTxg6Bs8UK1xGlKuAtOan9QJThCRu-EX-6XyMhGHoccXZU5ehhz6cqgw3Kq5td8Tygsh9JxHzmpcp09JW8ZExufY0VCLUhCY3w_ts0fHgDcOgOO9YoJuPY5Ltqr6QV7RbUOwlm6mTSSqrzNDjBMJSiQhMy_RpJRKU6wdL4PxxwCHr3mcBFvrsZGe_O3I9ImMZGll4DCYlPu4aez1a-ztfid56Dk26ib5FyZBFzMbhPhlpwlRrpJ6Z2bO0efyRT0w3KLFAbPnFS_kNDWB1DSAGGmnEDJ69OrtZ1FeO-xLwrFgoWCXK4T2OrWwfo8Z8SFSIiI7Xtv4tWF3Q-T3-ys7z9hi8aq-BOerCuXS2qjS4UAfNs6ymIXfycdF2xfWg7W9bX9CFdhSB4I123YM398BH9NQ3UNg1kwUy_U9DkVDXvA6ahqjIzPEhjfuCuXSqn5kjLFf8QRgPcIYiX57BzOv2pRAVATlQkXCuItTUxdS9qor_sviMvl-UN1-bp6spmoQuq7jRRk4SXYmY_zAVuFBKTgL23UxhoMgHgwXZ2iKRzdRzSrex1CHvjLBDElmDYyIvUMkRmL9fl6vKFPTlTuEkvsZ3a2tqgTrVC9IUW3T-vsK0J5zAT2_YflSiJmgU_ApKW-mfORxjbd41311KJul28Hn9ytrGBXl4jKmIdqKHTIKQZ34T2gNmREbwxqNLO3kMZ1Ul8RkMDFa58mEOqe5msVjom5RJYmG3P8L51PJV6tFyqXPnPayAEBsZiCqAWDZE4Uf1i2IW3FoG5qBUUQxYxIOV3n1ewQJ_M3_uPfnl5zD4pP3HM1mrFsIGqWGiJQ-Lka5tN5GMxNzmqNhb7JiEcGY9f3BA6tAfnv0eEGaZffkM0nwaVbPqHXDToYOTqLcORb6Gi_t_dEVy01dQxUMHTUzLQsHgRZM00TmyU8EWL9lTds-unBQjENeUx-q-3XxoMyltRgR6aJ4k8YGq-PlRFnvU_DeZC3bm5JqPyJRlElDLxg-4hJLkjWmad3_v9nrG6msvGKYSTZlpc0oov_YshEBzHU98D6bB8B-_cdqIWlddM2DzLyh0NxBYLATr0tssbM12HBoTnW7cRf00xGWahER5v22MWe0vcxuUVo5m0yEpbU20Pcc2NRVISZROSTA1Y6na5uL9WQY2IXYiyGxSKI2lNQn8VdHHnIyayQOPgVz0wgSpOyQhZ_bFw2m2QliEictP6Tr2dIq7sG5lhH4Q_FdBfilhwlG_7Wa_Km3JoEK4LqNCpgxb-YBS-TarcriB0RHdtH3ulK0qRL208umIlczDgA0kDCzI8jdmh7NbIA5oSSZQSASE9lZdTmt57jazedUfxZx5fAr-t_IhnrQ-IU6H2s7Ls2bSPMGZe0wJ7AvsCCtYVT_G7fYBS-9B5lJ399bF8cTBLlvf_EYwDPpuLqvrgT1jy7qqbNEv0FUSwyW2IGYzgM4F6-MaOTbjzrJQtoImU4G_kPsLz7yFZUJ3Vy7CjkS0a644eth4WSxElHEUKOH8rdh9PmOwjt2qMTf22nPt1eFEL_8ZrxV_Ys4HpIILfNVOzEAQPwbYcnkGH7fF-r-EUy8o7CtY9j0UdLLsDpGvX8ke0fNZ-zyE-Pd_2WV8rGSyIaPB7ASiSE-inslrhCCe7PNRqmrdPRUKuCq8XuG8IRVr6dxQePPsVP7AHMefQzAVJmN3y2KcRcboEHyBpU135ofKufxnWJlEGe8URQX1uite2ZRZoY5oAdO2bdUMkOY_FH38zy8mncYJ3l9sCOx0YjPwyMBCdI0CCiZWb6w8kNB5m2RGzX03M-52eaR_bzxlkQq2mP2PJTz8HH7xoQibyhajN-DTY5jZtf3LKjXpEI_wrI8YVQaVLauHW1v4Wfkm821dMQImnAboh_63lYmLb7iyNCRaWOxIWVCgfqikjygyPymeQz3xGfgCJPaB1SdgPYgkQiC33lBo1FjU2SZMMSozEIx1NVUDE7P3EoiCtYpJcE0HuHhefQU2rIsNFxhK5xxCoFjrYMZ4gOBu38FmOQolotqXv6fXVVN0285e6ORW4BXTEh29aE-ziTcbXCwwatBxxutFsWMf0UQs6dcRdw8Wt-x31IKTro4oo6i0zk3KKeReseFovJez3WXC_q6Z6PAZ8hKEWv4_YeWG6LANbnGCRa_",
+        "status": null
+      },
+      {
+        "id": "msg_0b9d06ebf955c883016aedbbea8c3087d1bab3ed2f4a85acb6",
+        "content": [
+          {
+            "annotations": [],
+            "text": "{\"message\":\"Sterling declined, so Critical Pair has no agreement. Samella: would you instead join Critical Pair, keeping 0002 test while I take 0002 review and Marguerite skips? Versus your proposal (me on 0001 triage), our combined contribution rises 11.3039, but team score falls 20.8954. This is explicitly subgroup-first; please agree only knowingly. Without voluntary agreement and resolution of Marguerite\u2019s review claim, I will take 0001 triage. My other low nets: implement 16.8904, review/docs 20.9452, test 19.3233.\"}",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": "final_answer"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 0.98,
+    "background": false,
+    "completed_at": 1793965037.0,
+    "conversation": null,
+    "max_output_tokens": 2048,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+      "context": "all_turns",
+      "effort": "low",
+      "generate_summary": null,
+      "mode": "standard",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "name": "agent_turn",
+        "schema_": {
+          "type": "object",
+          "properties": {
+            "message": {
+              "type": "string",
+              "maxLength": 600
+            }
+          },
+          "required": [
+            "message"
+          ],
+          "additionalProperties": false
+        },
+        "type": "json_schema",
+        "description": null,
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 2839,
+      "input_tokens_details": {
+        "cache_write_tokens": 2836,
+        "cached_tokens": 0
+      },
+      "output_tokens": 242,
+      "output_tokens_details": {
+        "reasoning_tokens": 96
+      },
+      "total_tokens": 3081
+    },
+    "user": null,
+    "access_programs": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "image": {
+      "context_compression": "disabled"
+    },
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    }
+  },
+  "elapsed_seconds": 7.89628349999839
+}

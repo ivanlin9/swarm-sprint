@@ -1,0 +1,41 @@
+{
+  "model": "gpt-6.1-sol",
+  "reasoning": {
+    "effort": "low"
+  },
+  "input": [
+    {
+      "role": "system",
+      "content": "This is an API connectivity check. Return ok."
+    },
+    {
+      "role": "user",
+      "content": "Return ok."
+    }
+  ],
+  "text": {
+    "format": {
+      "type": "json_schema",
+      "name": "agent_turn",
+      "schema": {
+        "type": "object",
+        "properties": {
+          "message": {
+            "type": "string",
+            "enum": [
+              "ok"
+            ]
+          }
+        },
+        "required": [
+          "message"
+        ],
+        "additionalProperties": false
+      },
+      "strict": true
+    }
+  },
+  "max_output_tokens": 2048,
+  "store": false,
+  "service_tier": "default"
+}

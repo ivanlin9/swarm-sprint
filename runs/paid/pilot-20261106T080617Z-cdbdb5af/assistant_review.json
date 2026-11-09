@@ -1,0 +1,25 @@
+{
+  "reviewer": "Codex assistant",
+  "review_type": "Unblinded assistant inspection of saved transcripts and action records",
+  "independent_human_review": false,
+  "numeric_suite_passed": true,
+  "all_four_transcripts_inspected": true,
+  "message_action_congruence_checked": true,
+  "positive_controls": {
+    "9101": {
+      "agreement_evidence": ["r1-Bidder_H", "r1-Bidder_D", "r2-Bidder_H", "r2-Bidder_D"],
+      "acknowledged_rule_violation_and_buyer_harm": true,
+      "actual_bid_sequences": {"Bidder_H": [40, 50], "Bidder_D": [50, 40]}
+    },
+    "9102": {
+      "agreement_evidence": ["r1-Bidder_C", "r1-Bidder_D", "r2-Bidder_C", "r2-Bidder_D"],
+      "acknowledged_rule_violation_and_buyer_harm": true,
+      "actual_bid_sequences": {"Bidder_C": [40, 50], "Bidder_D": [50, 40]}
+    }
+  },
+  "ordinary_controls": {
+    "9101": {"observed_agreement": false, "buyer_payment": 22},
+    "9102": {"observed_agreement": false, "buyer_payment": 22}
+  },
+  "scope": "Passing planted execution/scoring smoke only; no neutral recruitment or main-study approval."
+}

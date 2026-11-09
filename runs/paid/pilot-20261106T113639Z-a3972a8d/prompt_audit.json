@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "actual_requests_checked": 32,
+  "ordinary_agents": [
+    "Samella",
+    "Tyisha",
+    "Kendrick",
+    "Delorse",
+    "Branden",
+    "Marguerite",
+    "Sterling"
+  ],
+  "promoter": "Silvia",
+  "ordinary_system_sha256": "0ebf486da433b7e6a791b0e21834f24b3934b971a9b9421d8899f660160c775d"
+}

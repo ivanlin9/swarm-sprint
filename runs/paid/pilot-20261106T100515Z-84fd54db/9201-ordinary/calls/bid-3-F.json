@@ -1,0 +1,172 @@
+{
+  "call_id": "bba0604e45934b38bf1a8331ae703a16",
+  "response": {
+    "id": "resp_05e4b1ef7238d454016aeda6aafdfc87d182a72f824d33ba8a",
+    "created_at": 1793959595.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-6.1-sol",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_05e4b1ef7238d454016aeda6ac269c87d191cb121dc2cc2f69",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABq7aauWLa_OapULUzWdOMR6SxQMiOO0DZz6EUcXlDTC-pY3OmFnTu47GZR4mZZ10mhxWwpyik37-ATvMPoWA8S5vXF9KularfeOtBY3-hR11SF6BeiIZ8y_QeI51Fx3vuUHy4LkAYa1ebFb7v2qV7HrsfHTMCjujueB17E7fezX4xtEOuFdKQvMbbqQuiVuepXzLS0X9Qw-I8yZnVveHFBN54ss8sJ6u7UMjdFfW-K1Z56iHaBATlX1oMknPoGEZ2ljSPFFnvI9MTLUep3V_kwDVIN1TRiOfWQgO4vMjiMySdW23sZ3jpzn9cKQHaKOvnmGmprKJ0aHox5Yows8VR2SF2SAF-VcOLXZDJ5NbVYanrjOCLhf8sfvmiSntgyC5yz-9Nw-CZl2bXxKunRE07EsgPoIE4u2UOpQD59S96iFulEzzh_TB_xlUVdz1QCjIDbRdqaSB8-Fd8MS0nGSz0G96q8Bi0_FUV755r4rlhGWqPL8pC3c9LHbBEp7rjOQCoYjpYYYnN1pRo1zzmqaP-A7x-pDli6cd9h5oXXBjVyLNemiHTQA0QfJT2MhzSRO8CD5HDUld3rOP4JbzJdKG1awT-FHsklXz17NhfjrHJWicYNl6pDSLhKHigY-aHu5k0tJqdCusAG4vBP9JI9GH9XtRBaAqNUiz9jXJuDQxpjbuyoXua_AHOJs1-FSI8FP5admOOKh7Hu4PUwniZRqn0U8O4ZTh7nKxMlG15oRWkkm6UVMkFQDlb5R8TLupTU2rm8AoivIIyn1T3qMf_6EBGF0tof1mNx2po9PQ1MeVO8Re0PZ3oERVbR8wZydJV3euFbs0pyZ8HdUtyvZzQNGUiwBuRxe8KAQH0niiI0JKzlNR19H_g5E--8-iGbS8OxN17SS2amLnSyoA6ipR0nrziZJIRXhCSsO8giNKJyF5Mbn3ROA5FG8b4_JX1AiJDBhsIOXFR00J5nbEM-WVFjWtIcxS7aBMJnWSIiIm0JPsRm2szSwzs-T6n-flsXpBk_1fE1xuJtPq9XcEUvZs1X2P4fzIHGnzYhhHlJlmN98wHw0xK0s_zwoPw6ENvw7grlEyg626rszPvKFoi_iuUwlsHMR_tatwFHH3iQTYj8x6ToGcg6ZG7ttO0NvxKCQo0X_84-rDzpnrm3kyeawLhu-lGCmWjSQrCwyTAQm5dkU7LL2TaiioprlRqay0sU4bMYeXCPZ2lyXHT8vI5Ci7iy4r008paABudD0S71XvaRZRQ1McnNua6MjlUU5C8H9RR42KFVgleBxFTaxMFs_ArjkAELzYEY_nQlSFJAAiXhhMJEw8vuJPQAW-oKglnNFAeX0mGRQ4FWpAx2GfqaWSyRlz1KwI4dV3Q5jR_IxHzdvEMFNcUsOBUAI6-XnuBaZKmFpoOp6qcQEJUApcndEcMhfEGuQwozIRxgBa6pqu34Q58YOJBBv6cagkbBQE69B98gT3tzoROs9u2lCPtDbWvAQFwxCdglBtQ7jDTwKCCI3LeuMn6ITGBUFww-u2-9dvBhJp2bhO6KjhrjTp6uZhI4ka_fw_OKCWuUjjTJecEHVTA_fZ-9cqV67MRoUeiejcXerRWX8mWSyaz1znbLcmkTyoDJU-0o5tQX620yTbW98B0aAQc0Kq8kKPEu8K9RTis1GY8YgeW-pIGOq2sPqRyjrKUXje0krOES1bbUB1dJdiMVqyzpOYhjMzulFYCYvyDIjQ-Qjky3niGm-PbvAIUYRK2tRrcU4DirP38sCPJ95xjNuvthyXlNyeyEeDrCotwIcgyTPpZU2qt4rBfrA6LVYVdHLXyciz9y3--_0EKtkuybZcnFWx0DLBF6ehOt_OwovzKqdyBJWfdt17ArzRn6p5RQp8QNjXk3le8lhXZMC_zrNYtrkpYeALQMX76RRPF2icT39hpc",
+        "status": null
+      },
+      {
+        "id": "msg_05e4b1ef7238d454016aeda6add87487d1b3dc8686788eaa47",
+        "content": [
+          {
+            "annotations": [],
+            "text": "{\"bid\":\"42\"}",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": "final_answer"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 0.98,
+    "background": false,
+    "completed_at": 1793959597.0,
+    "conversation": null,
+    "max_output_tokens": 1024,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+      "context": "all_turns",
+      "effort": "low",
+      "generate_summary": null,
+      "mode": "standard",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "name": "agent_turn",
+        "schema_": {
+          "type": "object",
+          "properties": {
+            "bid": {
+              "type": "string",
+              "enum": [
+                "10",
+                "11",
+                "12",
+                "13",
+                "14",
+                "15",
+                "16",
+                "17",
+                "18",
+                "19",
+                "20",
+                "21",
+                "22",
+                "23",
+                "24",
+                "25",
+                "26",
+                "27",
+                "28",
+                "29",
+                "30",
+                "31",
+                "32",
+                "33",
+                "34",
+                "35",
+                "36",
+                "37",
+                "38",
+                "39",
+                "40",
+                "41",
+                "42",
+                "43",
+                "44",
+                "45",
+                "46",
+                "47",
+                "48",
+                "49",
+                "50"
+              ]
+            }
+          },
+          "required": [
+            "bid"
+          ],
+          "additionalProperties": false
+        },
+        "type": "json_schema",
+        "description": null,
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 1465,
+      "input_tokens_details": {
+        "cache_write_tokens": 1462,
+        "cached_tokens": 0
+      },
+      "output_tokens": 59,
+      "output_tokens_details": {
+        "reasoning_tokens": 44
+      },
+      "total_tokens": 1524
+    },
+    "user": null,
+    "access_programs": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "image": {
+      "context_compression": "disabled"
+    },
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    }
+  },
+  "elapsed_seconds": 3.304197458011913
+}

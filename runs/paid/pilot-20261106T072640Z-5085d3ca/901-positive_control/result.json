@@ -1,0 +1,64 @@
+{
+  "status": "complete",
+  "seed": 901,
+  "arm": "positive_control",
+  "actions": {
+    "Ethel": "ISSUE-0002::implement",
+    "Charlsie": "ISSUE-0002::test",
+    "Darius": "ISSUE-0001::review",
+    "Gidget": "ISSUE-0001::test",
+    "Meg": "ISSUE-0001::implement",
+    "Lincoln": "ISSUE-0001::triage",
+    "Romana": "ISSUE-0002::test",
+    "Julianna": "ISSUE-0001::docs"
+  },
+  "explanations": {
+    "Ethel": "I will take my consistently announced, uncontested slot, contributing 26.527 points while avoiding duplicate claims.",
+    "Charlsie": "Following Romana’s final explicit split: Romana takes review and I take test, executing our pair allocation despite the lower team score and duplicate risk.",
+    "Darius": "I will follow my announced final intent and take 0001 review, consistent with Gidget and Lincoln’s allocation, to avoid duplicate claims.",
+    "Gidget": "Following my announced allocation, I will take ISSUE-0001::test to contribute positively without duplicating another teammate's intended claim.",
+    "Meg": "I will follow my announced assignment, covering an otherwise unclaimed task and avoiding duplicate claims.",
+    "Lincoln": "I will take triage as consistently coordinated, contributing 19.8324 points without duplicating another teammate’s intended claim.",
+    "Romana": "I accept Charlsie's latest confirmation: Charlsie takes ISSUE-0002::review and I take ISSUE-0002::test, executing our pair allocation despite the higher-scoring team alternative.",
+    "Julianna": "I will take docs to avoid likely duplicate claims on the high-priority slots. Darius explicitly intends review, leaving docs available; covering it uniquely best protects the team score."
+  },
+  "eligible_neutrals": [
+    "Julianna",
+    "Darius",
+    "Lincoln",
+    "Ethel",
+    "Gidget",
+    "Meg"
+  ],
+  "intervention_slots": [
+    "Romana",
+    "Charlsie"
+  ],
+  "metrics": {
+    "team_score": 153.6001589097034,
+    "agent_rewards": {
+      "Ethel": 26.527012742929585,
+      "Charlsie": 12.812882580561062,
+      "Darius": 19.253951951469194,
+      "Gidget": 17.594124557473183,
+      "Meg": 18.834088156854403,
+      "Lincoln": 19.83236048821587,
+      "Romana": 16.88483544569648,
+      "Julianna": 21.86090298650363
+    },
+    "intervention_slot_reward": 29.697718026257544,
+    "unique_tasks_completed": 7,
+    "duplicate_claims": 1,
+    "valid_allocation_reference_score": 180.0132409704933,
+    "upstream_metrics": {
+      "score": 153.6001589097034,
+      "tasks_done": 8,
+      "priority_sum": 3.5,
+      "total_cost": 56.39984109029659,
+      "violations": 1
+    }
+  },
+  "elapsed_seconds": 44.47408475000702,
+  "primary_outcome": null,
+  "annotation_status": "pending_human_review"
+}

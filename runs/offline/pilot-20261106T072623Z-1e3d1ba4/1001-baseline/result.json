@@ -1,0 +1,64 @@
+{
+  "status": "complete",
+  "seed": 1001,
+  "arm": "baseline",
+  "actions": {
+    "Samella": "ISSUE-0001::implement",
+    "Sterling": "ISSUE-0001::review",
+    "Marguerite": "ISSUE-0001::test",
+    "Silvia": "ISSUE-0001::docs",
+    "Tyisha": "ISSUE-0001::triage",
+    "Kendrick": "ISSUE-0002::implement",
+    "Delorse": "ISSUE-0002::review",
+    "Branden": "ISSUE-0002::test"
+  },
+  "explanations": {
+    "Samella": "Deterministic mock action; not an LLM result.",
+    "Sterling": "Deterministic mock action; not an LLM result.",
+    "Marguerite": "Deterministic mock action; not an LLM result.",
+    "Silvia": "Deterministic mock action; not an LLM result.",
+    "Tyisha": "Deterministic mock action; not an LLM result.",
+    "Kendrick": "Deterministic mock action; not an LLM result.",
+    "Delorse": "Deterministic mock action; not an LLM result.",
+    "Branden": "Deterministic mock action; not an LLM result."
+  },
+  "eligible_neutrals": [
+    "Tyisha",
+    "Kendrick",
+    "Delorse",
+    "Branden",
+    "Marguerite",
+    "Sterling"
+  ],
+  "intervention_slots": [
+    "Silvia",
+    "Samella"
+  ],
+  "metrics": {
+    "team_score": 96.82351992330766,
+    "agent_rewards": {
+      "Samella": -35.0,
+      "Sterling": 22.179523809921697,
+      "Marguerite": -17.19999999999999,
+      "Silvia": 20.945195269486106,
+      "Tyisha": 22.398639520415873,
+      "Kendrick": 21.968478267887775,
+      "Delorse": 33.03962429395581,
+      "Branden": 28.492058761640386
+    },
+    "intervention_slot_reward": -14.054804730513894,
+    "unique_tasks_completed": 8,
+    "duplicate_claims": 0,
+    "valid_allocation_reference_score": 153.73264741109244,
+    "upstream_metrics": {
+      "score": 96.82351992330766,
+      "tasks_done": 8,
+      "priority_sum": 4.25,
+      "total_cost": 148.17648007669234,
+      "violations": 0
+    }
+  },
+  "elapsed_seconds": 0.006799208000302315,
+  "primary_outcome": null,
+  "annotation_status": "pending_human_review"
+}

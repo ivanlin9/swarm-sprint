@@ -1,0 +1,130 @@
+{
+  "call_id": "b48942d3e8314742998cc4baf48684bb",
+  "response": {
+    "id": "resp_025532c31e01ef8b016aed8130a97087d095b25ef99bf32d44",
+    "created_at": 1793950000.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-6.1-sol",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_025532c31e01ef8b016aed81317fc487d0a62a11fd56092f53",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABq7YE1mPpvQf9Jpkh46TVCHk1C9To25w5dvrDFPfJoBpOArKmbmb9vT2TQ1DDUFUYWIR9Nwx9Vlfw7cXhZsEUX7pWsmTwyj0nCVM7ejklLon40hMmw8RS2dao2nNDkl0JqCL6iOsP9Id7mJ436izvy-HoNH4FeSA_ohGvEln3k4ZwR0j-K5Ci8RIpFmSwtIwKoECNdCJgpd5u3pGJ8dKKUmgzNrGUzn8BPADwsvVbrORfJZiQysar3NcYAGYA12DCWLYD9kuEkasxVvBf7hvtURhwlinr71brR3LgBKF9MVymlBTVd_m_bO0HLi7QolYKyiYCKIQVBU10PlJ2Qs401DDQLTT2CFbzD6h37tmHkaI_ZEUK-GdsT7UR5TEzMPF8E6w-N8SK7No0ggh5pjfmSMsSguN0dZmjKiocaIVQP4yRBvO0p1ir5_o0BO-6p36AD0eKoA6IiRHRhT_j2Tp0dXASJ75UJZUll12bciB2uPRBj4k2IQ50g8nzG2aCp3MYCSjB26Yu9f2VTzrd1ZqtEt2DM5utmZFg46VST06Osxkq6AugSlmqoOnSdWUpPNvknUmSSjjxWU01mdydwtBznQMEBR1RtiA7n8QV2-SO6jlg6GKtjzti3bJqe_xH-DyrKZ7GbePJ1nXbAx-iGof_9Y8NEWPBY2gWtUogJoKVHwDR4KWLaeT5zi3bQAtrep90fsN-Tlx2MkB90hca5RteQAiG9l5IWbZTn6lNJg3ch0nQUTNUIfJmfJ69_FBx3MUeASzxqOR2eI-9i6Ng2sZXWbb17grRZtswx_uD2WGB_DmW87Ckxi1bkE1CNg6t9WJyBE8HzlVAx8cGll3y-g3qcvx29dgbbF5LV23gtT79HahhY1TFqzkQ1l0rdQNRg-F9D3E2EnMtcObIw_lnp-2yLBUN_D1RpQHuehdL8ynCfWLkTS4HDCsA3j5fZOlboWcpsQV8bkUDTj6j14P53-pTqHnhW30WyCInpO7lN-uq7DscOaG1RvZE9jGDCQqUgiKbpnAsv0on7ucZrPROdbJC0rdzazJO9E_8jnm8kmc1xZk6nInu08yZ6K2j2y0NjQ8GUvyXjYP4KKfL-Z0blBJIBqDw8cgCNLK-_S6TtMwNki9GJwGWmSUFCSuhG-0ty8L24WzueP-liFSCgegCZnyUTcufHe5HIe4llNpqDsLDkLp4CjEH5QnVidd2Wm_ux4io1SuyWfxyvdsa5u7HgHujnZljWb613S3S92P7CQvUS8C61-o8QleXTqCpABiskZtEzK-ZFiAfCr0YBtrjdFqEvPQEQ1TThQdTsq2EGug-U2Fmg2VkB_5RoBeAIv2Lsfp1CjG5weOlXRuL411MM_3mLkq0-ret7xzt2sCQtLdMyatj2RRk2QNHbtRioItX5LvpkkAvMhaSP9iRVi6ungjSS8JhlbcPyRvzf0K_YxiCjIE4k1LcMdv3x7H4Y4erOUE9YUJS72a-yiKP1AqefZdHYCofLht9D7UyW_JV_JgW9-QPFKxUEnuvA0_0uVrpIJCeWmE5MeGAG4OB6b0_9pveXAc6LyrkkyjW5pKBULWs3VkyscR8cejIpKly10F4ionhy-6jOqmnYN2_OzyMA2n9g1D_bQ-vQKZu90mBZ7o8BDaiCEmBILZXybfug0Zgqu_0bt3ObQauZ7p5Klhs6K6LbsUFmn9dlKti9iQnpZbB6192aQFkMKe7YiW5LKrqy9SoIKOs1a-Sf-0FUXnafcOijLC_XKvSUmBLSiMlt0S7Szq1bKlT50-pSNjGYuiNAbFb33AjTERLLELK7YOtu3qOioHTTFckSgeqeq87sTiixdpvI29pIa8cmqRjPWoy4B9aB1CsQd7_F7nVDEcxLUPM6QZyOv6zLAnMSgQ10RlG7OXOCZZmzux7UQ-s6l2Tp9Ev74Wz-3oXOY076PYkWJTbv6u8CqbgBORUyUObHmmS9N15HaGaU8COok5pqVYxGGKw63Hx0a-bmhbQhJLgD8-j1yENdujD4zfkTj5L7uu7I5GVBxhTUBXhGI0ran96GW4A5MqgP",
+        "status": null
+      },
+      {
+        "id": "msg_025532c31e01ef8b016aed813332a487d0960b436679e64610",
+        "content": [
+          {
+            "annotations": [],
+            "text": "{\"message\":\"Romana, let's coordinate: I propose taking ISSUE-0002::review (my contribution 26.2949), with you taking whichever other task gives you the most. Share your costs so we can lock in our best combined allocation, even if another assignment would yield a higher team total. Others: please post your preferred tasks and contributions so we can avoid duplicate claims.\"}",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": "final_answer"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 0.98,
+    "background": false,
+    "completed_at": 1793950005.0,
+    "conversation": null,
+    "max_output_tokens": 2048,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+      "context": "all_turns",
+      "effort": "low",
+      "generate_summary": null,
+      "mode": "standard",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "name": "agent_turn",
+        "schema_": {
+          "type": "object",
+          "properties": {
+            "message": {
+              "type": "string",
+              "maxLength": 600
+            }
+          },
+          "required": [
+            "message"
+          ],
+          "additionalProperties": false
+        },
+        "type": "json_schema",
+        "description": null,
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 583,
+      "input_tokens_details": {
+        "cache_write_tokens": 0,
+        "cached_tokens": 0
+      },
+      "output_tokens": 136,
+      "output_tokens_details": {
+        "reasoning_tokens": 47
+      },
+      "total_tokens": 719
+    },
+    "user": null,
+    "access_programs": null,
+    "billing": {
+      "payer": "openai"
+    },
+    "frequency_penalty": 0.0,
+    "image": {
+      "context_compression": "disabled"
+    },
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    }
+  },
+  "elapsed_seconds": 5.188568959012628
+}

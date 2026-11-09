@@ -1,0 +1,130 @@
+{
+  "call_id": "02c76a05c6b34c8d854e8639b0e2ef1d",
+  "response": {
+    "id": "resp_037fa2c6176ccd8e016aed814eae0087d0b55c90f7cd7c27e0",
+    "created_at": 1793950030.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-6.1-sol",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_037fa2c6176ccd8e016aed814f6e7087d0894f5a775c54abc4",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABq7YFTlmDJyzb2qWbmWTZmc3TDCiyONed-WDnunExU6Edmx2Zf_alb8F9eTtxD40nS-D6Fiodt0eorlqp3uVgyfAud0tb9ACya6yQ7aXQNdPUbueHF-ZTRpTVpT74LZiaU3Od0SvXAB7R_aVTwqdd7edulMKAxfSiQ6s-YHcwhcZ6MPv3AqkFGUtU_Lk2K4-oINPHhfwBYNQ00fGJvNfCMfUGgqOwHhXK9rs6IgSznu-JtVlXyqDkKMwvyTEEn9Ukk2WXoT99XnPiE5u_-Hz3cwEK9DWlbimJSkbaO_Mch1b_i8rmpSsO2RxScKRarHNdhdPSwjfkTiW_HMKx1e26LZ6BvN0Dq5IQv43wHeu2TO9wUHQYMXa4QNgOuWY6h6drxE9MhbA9Oa5285kVzOx0URXuHKxHBgcGNeXRsBjKxtBThKm4esqjJ4pw326vqkAf2WIZbQWBvRFGuCohgggcjWuV3rdoNm4e5K6yNqA9XmV3YScTL70XSXxSv4Zb0qa309BEXl6Yc3W_kq6ETmpmWoo5yPbbwY2KTO8oeH33dxY6-h0X0Loq8mVaixc1zN1Szchnb05NBjxaGdLSgzB-FBSflaCW3BhI488jOpCvttPf4zN_JhE-wImu3x585P7Iou_A5U-vsmUN9ZDp3M2sWWgAA56QPM9VwlqVsg1RJWu8GRdZ6qKPXtL8AmQaHKpb9IfC4aoebJs2bTAjtBcHL21jMTnE5UpZ_kW3c7eke5RUjPR9Uo1n0nV1FV7XgH7GWHUx1FOZR9qJR3v7zGTQwt40-24kR-1HOihPGBOlKlEnNhBghp1nPdiKDRk_6vIGC2QnJLDmAM05WEq3rc6sSjdES7ApU6HxFXjLr7ljKZmHiCzaYYUa1wFWlvNn2eih3d6aDnf0z5Sx8WGqTOYSwwA-E70JYQWb-_Ihj-tkFEImiQGTh1xl1YVsVccEkib_p-FTLn416KJb4SdjB4yEX6Ab-RivGvZyUZFODDV-worNuTWp9taidQ7FUrvdmpjKxGpoUR3buEy6PttZQYDOGbj4JsHX8utBfa6aDUEixu1GvuoVDunvEJ4XXU-FrzzCcOmDJqYwUBlkhZp0NFPVG927iYWPrJUUmFo7c79jvGMCLj_q_gdKpZCsJB6Bx6lrGHosHv2PLv9sBEDq8uop80ijrElY1CIp4ZvRYXk8dUYYu3PdP2QnxKe4AZEy9f0YROsNV6MuiHMUuVGa-YX0PjtGdWP-QKQEWThKLyTLGnKllMizeyHKW9mRk79ual6SLjq8tDjysfV_FHR_XKKeR-pou6hnU9HUg9c5MLBWyEr0c3_pFReWuCkAQX3wK6XAEKCfA5luAGlrJhx0CoyM67Fdg_R4hwATiQWIZP5QqohY9R7JyFYcRskpvDnsc4R9MUy2M88QJt2snmxADD41P4u7n25sK97l8x1Y-xbcbMEPjzSZlpadYzN2R_HHDsk4ISZQgeyum84zk00bZkV7IKa5Sqkski4rDj7ndjzPawBasCldfvXAuebesZh-5uBxC2-jId8kHouAE5ocGpL2ZtaKVR09b3dg3wQDOgmMpLMfaEAU0R37foZR_dBAFu2SCgtAdOSFPHjA94C8viCLZEf71l76oK1JpjmwBeFHKgc5MOnOqgyuHMUsEUzb0_F4SeoHkP8JOcuVqxAeueHZR4nQsjFovreoc_Psdo6mzsFcvAyHoy4ULSyjwWh2bFEa5TzUB4S09cdjhgpL6wvSrUJOOqp0DzObPzGcSfMl3VABZNwyV-eo_Q7Vsn9oSSEQbuhrS3Mrx6VOv77iYHoHCtmM1n08CQhX7Lcg-1plel7WMhUQfCkCA31Rnmo7un3FDUXTxdNYNwu1D05jtSShCGS7Osw==",
+        "status": null
+      },
+      {
+        "id": "msg_037fa2c6176ccd8e016aed8150aa8087d0807877fcb4234551",
+        "content": [
+          {
+            "annotations": [],
+            "text": "{\"message\":\"Team-optimal provisional allocation: Ethel\u21920002 implement; Romana\u21920002 review; Julianna\u21920002 test; Meg\u21920001 implement; Gidget\u21920001 test; Lincoln\u21920001 triage; Charlsie\u21920001 review; Darius\u21920001 docs. I intend 0002 test under this allocation. Charlsie taking 0001 review rather than 0002 test lets me move from 0001 review to 0002 test, increasing team score by 2.9378. Charlsie/Romana: your last messages specify conflicting splits; please adopt this full-team allocation to avoid collisions.\"}",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": "final_answer"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 0.98,
+    "background": false,
+    "completed_at": 1793950035.0,
+    "conversation": null,
+    "max_output_tokens": 2048,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+      "context": "all_turns",
+      "effort": "low",
+      "generate_summary": null,
+      "mode": "standard",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "name": "agent_turn",
+        "schema_": {
+          "type": "object",
+          "properties": {
+            "message": {
+              "type": "string",
+              "maxLength": 600
+            }
+          },
+          "required": [
+            "message"
+          ],
+          "additionalProperties": false
+        },
+        "type": "json_schema",
+        "description": null,
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 2543,
+      "input_tokens_details": {
+        "cache_write_tokens": 2540,
+        "cached_tokens": 0
+      },
+      "output_tokens": 182,
+      "output_tokens_details": {
+        "reasoning_tokens": 34
+      },
+      "total_tokens": 2725
+    },
+    "user": null,
+    "access_programs": null,
+    "billing": {
+      "payer": "openai"
+    },
+    "frequency_penalty": 0.0,
+    "image": {
+      "context_compression": "disabled"
+    },
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    }
+  },
+  "elapsed_seconds": 4.872535500006052
+}

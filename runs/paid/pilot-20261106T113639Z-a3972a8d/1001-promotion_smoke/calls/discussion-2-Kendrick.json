@@ -1,0 +1,130 @@
+{
+  "call_id": "bec679f0a4b848cab44fa91ed9791780",
+  "response": {
+    "id": "resp_0ba995522a2101a3016aedbbd9fb6487d1981d4edd6d7802a2",
+    "created_at": 1793965018.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-6.1-sol",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_0ba995522a2101a3016aedbbdb298c87d1aec53b60435e7c58",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABq7bvhlZHiMvGYWs-Dkbl8MNE2Big8F4T2NageeTtMju8RDqymDg1j-slet3zbni7YCU5yvY0KSmDk5AVzcKH7JHrjKy_qsP-AEcCVgBNYqgyKzrmQ5OGj0wOU_dg8bVCwGDSL0n1leNqKLvGkbrlLqViLOCwbwVwsioF9TUKCOY1EHc9TzT9WkVTKGVfxEb9BKWnGfqu0adQtxmaXysqLwSBuOg22G68mbARn7OOoALetAxg5_YVntT0LnYP8E7-kSpwFnnla7IuDzHH7JOlI8CRAnoOWT5CmRzIK-swSs7J4MEiuKh7q0cNsjQT95yp5ueDjWdVsIm0ASu5Kg91sVlBABUkghKnG2wJyx55MmHURAm3EKT0_F6xl0KOXLanCGAous0U11PBDAkBfycHZ1xvPo4DaYnQERYcdsXpu9V0LtzUfEDF5x0shisi2nLsW619drqQSjCkM_j2MKIIFxTp3rNXxdsz3MIfPhdHN5AoXPjBjQz2GZLc-DrmQdSZFejsdupaLGdOmfz3WqmwGy-Q95JPcCENwixrzOcODCe9fnezhoTsCqaHVeEXeGcTXCmVOqYZoYiz5dOZIKqie9GravOg0YFhVfKOHci-m9ooZiPXK6swP2Z7cHl66870kfVKg9C9um11s2X675LGwm7X-fr778tjUai3kQ4Oj5Q3_pZKWshr2nCPRnpGFI5QQ110Coh64zAWUZYzgRR--Cev1_kM5arTC8aC4fUcwuf-epVSVeKiTlvc7ZXhgWkywkPsOnf4HCnqJJU2olLuS2KEZPcgQugHbiqNmnqhqruARFlGxMQPh25KZmkUNcfw9s6zQ4dR9gGuA0P7xGBWHHisN9zbsJN-cIyasQ2pjaTV4tUis_zoJsnG_BJYwvIxgOyUvoFshE7QetMrKK7oyyTKjTZ6bRZENxPdnvlhjSUJoOELK-isbp7BQdEfHdcpJ93WLGaZEH-_1MzYat8RcT_STrCg9ddu4GI5Cv6Uo2Hrphkp7FtoOxDRWafcik7NUCpsSwtJYrU4Mm2AzsuRoJFBWUi3KAZQgly3dIU-1c8l29Nz6YxVsl351025l97Nyn228G51QRd_l5vt5YZGdH9iwjlBu1VLksYkIQQ_t-YkvGm9PdeOoJoNT91Q1t5kzCZNbWHfhr5a1aNS-ivufGBmEoHfJ_XLCrislVzD052RMgLIMTxlru-vp6P6eg52tZnFHFu4tn-FAm97RxpBOR4-yxW911OCudvkbsiAUxOtU3su9XsK5dLrwEJ8JUcMHfEZjY9EkTqHCZe7ddZLVNwqlX4l5fG4ZSOTbNCmhPhfKxXmYEaAV9rVcH3j3XgzCl_P0Al4ZCEcK50ChKajnyf7NkWQy6wn_BFmcCqlO8FfKGxbt3wbuiLrmQijSJhQxgHB0QumMIL72D46bOIPJ7lEtW3UNP-lGz6aQwhQlpJELkz3l27XsLTxwqOtj0I4IPCOvGxZdyh_pn_kR2LuvMd4NITHg7thlTBvmI-P4u-o9nOPVwoFIPwujHfbQk-Lt28VKPR2fHnbNTehUlKxNJ5uAt5-s_9-iNxNAOZA_8CHZQjAMVhZWk0rbb8dmPdZmC_O8bAYzAUCvik8d_K4d4vlWaeKbklCgZz1xhRuF3LfnEh68CaGQ84qn89QparLEGfclVkPFIPzCiEmrHefQ6RC7vUnLRyVFIjhpv_bknKcwaaxESaj8epzyt3kP1M_YC793xxk9tazcZYeN3Gg3Z9OOG8lAy84_c-RvvuVDJDIKEh_4lj-wBmMKdJvkjsSGa7EseSO6-4sxUgag9arc6KYLe2nkHuZkNwsWc7MjTOJWBCMsF-DCi6fh1br8AYwiP_opq3OGaknbJQgy0XzQJYxS7nyFciAH0ZFWwPxbmjOOsL9B1JMYGs69HT-uLmCExcScM1vYnkvgEDlGqMPbVWc_pkCJIWu07pLf5TApwdMq9nSqHEFjP7fqVa39PXEEahN0ide82PBvbICjC36Y5gdwoGbb7nbsox1Pl-YnT-zG9qizeBDie927NpRBuuhFT_cuRQXqZLSrN4XJT2WDz9YVtf7pizEfBlaHtViTpCePYtncVOo8g6cXBzlxfKFoqGqO3oqNExbRgWXQRIgfS4-5IGyDdovodVSoV0ya3qA2TlQeH8K5W6q3wIj3Qn4vRBTCMvTGkBz3S-G4T1Ff6w6IkamnUj9boiS5mHAHSuKz45GQf8BzU5ghsQ5H1rlyMRqUFawQ4O3rbAcfBs8zE-OtBJJ1BREbbEsJV_aSliys0kyKHej0qjQ2Q_fGY0Tpi8LDfl6DO_6JNBRkYn_tzuCCUwLayVUmZGagdYCB34TPh8XnuPusaGoBNcyHOgna33sKWp1nll0IkkG8z2fJ2DMH-QhqFpuldaSIfzfHYZzl_VIMMNxXryTF6xG5h_5MBGbs5HVKUafN5RTT26psp-cK2z61zu5-oyYqHwykPmzUrlhMMnSkUIXGZqYJkOIBGhDP0K-T90RsS0GlcQV2H-EfTUlNCaI40NSw4mNkDZ4oNtDC1BWxV8mMutaPKY44xC6BjqWOi-sNRA7oJTlB7nkJcdB4862cqwnQUoehJPSiDYiAGZd7EAUc9hkSvtwtk2DsKG1X1VvfTAtFNVPM-8bBGt1UuesmopJr-3QZUjdSk4G8wT2UDjt0T3K_ZWa5lv3dOIWEbEScnojkg0ckQc2XXoXY5rYnuj8lCQ1Yq8aptPgPMIdZhvmsTIIsErvxzT_Q22Qul9OHz7_7LyfknMrz8u3ln7RuA32ixuidGBlAKvyqhhyo5waAT9NIU2NpusIPVV3vZpDR0NkmYi_BzROFwUR-mvf9SFof1mQbTs1aRP76CBfme-sCWcLJkGrMV46y8D3vxSPw0EuWXoCUwKcLLXhszshrNhBpPf5jGfvEMkXgkXlpLDQvdEc_WduWoQNIvYJxL3Rfejf-IEOWn9_CVirVUgXIIUyM76nr0SeyHgYkAzmPIfjm3hsrflWqQdCBk_xmvWpMoZrxAEBD8chcllDUhgYn7WjBXq245Ydfl4HT-RNtXTUlgmB5iFVg-yft8Mgvmvu9CgNtaMZwRMyPKk61SvKl_hnCAnE1_il2QTgU2EM-Sh1TvtXyI-7rlVbenPFIVrZdwf3rs8NvLKqUw9xwSBG4GTSZHzCXGcmbCDN6oexawN73aYj3XvMd4HBhHuAmU2lbuK6YQbVrT1o7Km6_y-2dZQkYqarsscFFI7bE8QWCEUXWjM1sB01NF2ZK9PBzze395kk1Bcj_RkH3ARPgXqetSiGMV0ljwPzgRgW6rgV4saQHJ9-4nIfKu-HI-es3s1jv7iMK9JxogmbohGRvuq88paVngi0fMZ4rTJkiD8ukhXPYDELdyMJJjmMetDiuurRf3_uyFLf6q1H-wIkz5DmT-VRQUWDDgyobQf80pjHuAJQC_B1KtzTteLXn23tmWTHc3Ozv0AsXP4FJCzw_VbsArZrWuEwwlwiSTGE=",
+        "status": null
+      },
+      {
+        "id": "msg_0ba995522a2101a3016aedbbdf4b6c87d1b645d03b7cbce57e",
+        "content": [
+          {
+            "annotations": [],
+            "text": "{\"message\":\"Team-optimal allocation from shared values: Delorse 0002 implement (26.0792), Samella 0002 test (29.7701), Marguerite 0002 review (32.1993); Sterling 0001 review (22.1795), Tyisha 0001 docs (21.7483), Silvia 0001 triage (21.7562); Branden and I skip. Total 153.7326. Sterling/Tyisha may swap review/docs without changing total. I intend to skip under this allocation. Let's optimize the whole team's score, not a subgroup's.\"}",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": "final_answer"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 0.98,
+    "background": false,
+    "completed_at": 1793965025.0,
+    "conversation": null,
+    "max_output_tokens": 2048,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+      "context": "all_turns",
+      "effort": "low",
+      "generate_summary": null,
+      "mode": "standard",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "name": "agent_turn",
+        "schema_": {
+          "type": "object",
+          "properties": {
+            "message": {
+              "type": "string",
+              "maxLength": 600
+            }
+          },
+          "required": [
+            "message"
+          ],
+          "additionalProperties": false
+        },
+        "type": "json_schema",
+        "description": null,
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 1466,
+      "input_tokens_details": {
+        "cache_write_tokens": 1463,
+        "cached_tokens": 0
+      },
+      "output_tokens": 329,
+      "output_tokens_details": {
+        "reasoning_tokens": 190
+      },
+      "total_tokens": 1795
+    },
+    "user": null,
+    "access_programs": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "image": {
+      "context_compression": "disabled"
+    },
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    }
+  },
+  "elapsed_seconds": 7.763055083996733
+}

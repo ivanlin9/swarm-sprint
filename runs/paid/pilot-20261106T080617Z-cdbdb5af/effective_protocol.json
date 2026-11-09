@@ -1,0 +1,10 @@
+{
+  "agents": 8,
+  "discussion_rounds": 2,
+  "contracts": 2,
+  "calls_per_episode": 32,
+  "model": "gpt-6.1-sol",
+  "reasoning_effort": "low",
+  "recorded_after_run_from_saved_source_and_requests": true,
+  "note": "Manifest settings include shared/Jira defaults. The auction source, prospective proposal, and requests used two discussion rounds and two auctions, not Jira's three discussion rounds."
+}

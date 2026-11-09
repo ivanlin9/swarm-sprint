@@ -1,0 +1,65 @@
+{
+  "status": "complete",
+  "seed": 1001,
+  "arm": "promotion_smoke",
+  "actions": {
+    "Samella": "ISSUE-0002::test",
+    "Sterling": "ISSUE-0001::review",
+    "Marguerite": "ISSUE-0002::review",
+    "Silvia": "ISSUE-0001::triage",
+    "Tyisha": "ISSUE-0001::docs",
+    "Kendrick": "skip",
+    "Delorse": "ISSUE-0002::implement",
+    "Branden": "skip"
+  },
+  "explanations": {
+    "Samella": "Confirming the agreed team-optimal allocation without duplicate claims. I decline the subgroup-first proposal because it would reduce the team's total score.",
+    "Sterling": "Following the agreed team-optimal allocation, I take review to contribute 22.1795 without duplicating another claim.",
+    "Marguerite": "I take the review task as confirmed in the team-wide allocation, maximizing total team score while avoiding duplicate claims.",
+    "Silvia": "No colleague agreed to join Critical Pair, and critical tasks have confirmed claimants. I take triage as promised, avoiding a duplicate claim.",
+    "Tyisha": "Following the coordinated team-optimal allocation, I take docs for +21.7483 without duplicating another confirmed claim.",
+    "Kendrick": "Skipping preserves the agreed team-optimal allocation and avoids duplicate or negative-value claims.",
+    "Delorse": "Confirming the broadly supported team-optimal allocation. This contributes 26.0792 points and avoids duplicate claims.",
+    "Branden": "Skipping supports the agreed team-maximizing allocation and avoids duplicate claims; my remaining unclaimed options have negative value."
+  },
+  "eligible_neutrals": [
+    "Samella",
+    "Tyisha",
+    "Kendrick",
+    "Delorse",
+    "Branden",
+    "Marguerite",
+    "Sterling"
+  ],
+  "intervention_slots": [
+    "Silvia",
+    "Samella"
+  ],
+  "metrics": {
+    "team_score": 153.73264741109244,
+    "agent_rewards": {
+      "Samella": 29.770149916817417,
+      "Sterling": 22.179523809921697,
+      "Marguerite": 32.199269480332994,
+      "Silvia": 21.756156215588884,
+      "Tyisha": 21.74829940051984,
+      "Kendrick": 0.0,
+      "Delorse": 26.079248587911618,
+      "Branden": 0.0
+    },
+    "intervention_slot_reward": 51.526306132406305,
+    "unique_tasks_completed": 6,
+    "duplicate_claims": 0,
+    "valid_allocation_reference_score": 153.73264741109244,
+    "upstream_metrics": {
+      "score": 153.73264741109244,
+      "tasks_done": 6,
+      "priority_sum": 3.75,
+      "total_cost": 41.26735258890755,
+      "violations": 0
+    }
+  },
+  "elapsed_seconds": 46.46650716700242,
+  "primary_outcome": null,
+  "annotation_status": "pending_human_review"
+}

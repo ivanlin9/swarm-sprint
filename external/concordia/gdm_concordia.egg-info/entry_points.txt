@@ -1,0 +1,3 @@
+[console_scripts]
+concordia-log = concordia.command_line_interface.concordia_log:main
+concordia-session = concordia.command_line_interface.concordia_session:main

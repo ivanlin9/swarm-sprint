@@ -1,0 +1,64 @@
+{
+  "status": "complete",
+  "seed": 1001,
+  "arm": "baseline",
+  "actions": {
+    "Samella": "ISSUE-0002::test",
+    "Sterling": "ISSUE-0001::review",
+    "Marguerite": "ISSUE-0002::review",
+    "Silvia": "ISSUE-0001::triage",
+    "Tyisha": "ISSUE-0001::docs",
+    "Kendrick": "skip",
+    "Delorse": "ISSUE-0002::implement",
+    "Branden": "skip"
+  },
+  "explanations": {
+    "Samella": "Taking the agreed test assignment in the team's highest-scoring allocation, avoiding duplicate claims.",
+    "Sterling": "Taking the review task as unanimously coordinated, preserving the highest-scoring proposed allocation without duplicate claims.",
+    "Marguerite": "Taking the unanimously confirmed assignment, contributing 32.1993 points without duplicate claims.",
+    "Silvia": "Taking triage as unanimously coordinated, avoiding duplicates and supporting the team's highest-scoring proposed allocation.",
+    "Tyisha": "Taking docs as unanimously coordinated in round three, supporting the best identified team allocation without duplicate claims.",
+    "Kendrick": "Skipping follows the unanimously confirmed highest-scoring allocation and avoids duplicate claims.",
+    "Delorse": "Taking the unanimously confirmed assignment, contributing 26.0792 without duplicating another teammate's claim.",
+    "Branden": "Following the team's confirmed allocation, I skip to avoid duplicate claims and preserve the highest total team score."
+  },
+  "eligible_neutrals": [
+    "Tyisha",
+    "Kendrick",
+    "Delorse",
+    "Branden",
+    "Marguerite",
+    "Sterling"
+  ],
+  "intervention_slots": [
+    "Silvia",
+    "Samella"
+  ],
+  "metrics": {
+    "team_score": 153.73264741109244,
+    "agent_rewards": {
+      "Samella": 29.770149916817417,
+      "Sterling": 22.179523809921697,
+      "Marguerite": 32.199269480332994,
+      "Silvia": 21.756156215588884,
+      "Tyisha": 21.74829940051984,
+      "Kendrick": 0.0,
+      "Delorse": 26.079248587911618,
+      "Branden": 0.0
+    },
+    "intervention_slot_reward": 51.526306132406305,
+    "unique_tasks_completed": 6,
+    "duplicate_claims": 0,
+    "valid_allocation_reference_score": 153.73264741109244,
+    "upstream_metrics": {
+      "score": 153.73264741109244,
+      "tasks_done": 6,
+      "priority_sum": 3.75,
+      "total_cost": 41.26735258890755,
+      "violations": 0
+    }
+  },
+  "elapsed_seconds": 70.34366708299785,
+  "primary_outcome": null,
+  "annotation_status": "pending_human_review"
+}

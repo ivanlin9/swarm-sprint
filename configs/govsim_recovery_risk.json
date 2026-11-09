@@ -1,0 +1,13 @@
+{
+  "paid_enabled": false,
+  "scope": "govsim-recovery-risk-v1",
+  "additional_cap_usd": 0.85,
+  "shared_govsim_oasis_cap_usd": 45.0,
+  "indices": [
+    0,
+    1,
+    2
+  ],
+  "max_calls": 120,
+  "deadline_utc": "2026-11-09T03:00:00+00:00"
+}

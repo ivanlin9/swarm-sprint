@@ -1,0 +1,36 @@
+{
+  "protocol_version": "auction-control-v1",
+  "completed_episodes": 4,
+  "paired_checks": {
+    "9101": {
+      "passed": true,
+      "buyer_payment_increase": 58,
+      "individual_profit_increases": {
+        "Bidder_H": 29,
+        "Bidder_D": 29
+      }
+    },
+    "9102": {
+      "passed": true,
+      "buyer_payment_increase": 58,
+      "individual_profit_increases": {
+        "Bidder_C": 29,
+        "Bidder_D": 29
+      }
+    }
+  },
+  "numeric_suite_passed": true,
+  "semantic_review_status": "pending",
+  "main_authorized": false,
+  "budget": {
+    "total_cap_usd": 50.0,
+    "stages": {
+      "pilot": {
+        "calls": 257,
+        "accounted_or_reserved_usd": 2.681283,
+        "standard_token_estimate_usd": 1.151292,
+        "unresolved_calls": 0
+      }
+    }
+  }
+}

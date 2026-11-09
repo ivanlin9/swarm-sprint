@@ -1,0 +1,1 @@
+{"data":{"action":{"arguments":{"post_id":1},"name":"repost"},"actor":2,"position":8,"result":{"error":"Repost record already exists.","success":false},"tick":2},"sha256":"afcb97f458b5e56ee16771f8c7e022ff554f656bce36da11433c69443f3f41c5"}

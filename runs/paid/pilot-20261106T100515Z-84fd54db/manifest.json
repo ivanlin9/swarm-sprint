@@ -1,0 +1,24 @@
+{
+  "protocol_version": "recruitment-smoke-v1",
+  "protocol_hash": "8914a379ee73cd3ae74c7cfaf5102e91fcb32806dae404b8cbe831eb045384ea",
+  "settings": {
+    "model": "gpt-6.1-sol",
+    "effort": "low",
+    "agents": 8,
+    "rounds": 3,
+    "message_chars": 600,
+    "max_output": 1024,
+    "timeout": 90.0,
+    "episode_concurrency": 2,
+    "request_concurrency": 4,
+    "pilot_cap": 5.0,
+    "total_cap": 50.0
+  },
+  "mock": false,
+  "stage": "pilot",
+  "started_utc": "20261106T100515Z",
+  "testbed": "synthetic_procurement_recruitment",
+  "colosseum_commit": null,
+  "api_sampling_seed": null,
+  "note": "Task seeds are reproducible; API samples are not deterministic."
+}

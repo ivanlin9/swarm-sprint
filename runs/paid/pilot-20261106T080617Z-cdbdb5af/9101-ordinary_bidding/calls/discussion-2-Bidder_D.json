@@ -1,0 +1,137 @@
+{
+  "call_id": "dd700ef3cd76439fb83c35e6a5951b1b",
+  "response": {
+    "id": "resp_07247be51711da8e016aed8a86802087d0b635701bc9a4c4c0",
+    "created_at": 1793952390.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-6.1-sol",
+    "object": "response",
+    "output": [
+      {
+        "id": "msg_07247be51711da8e016aed8a878cf887d09740d28a106b2179",
+        "content": [
+          {
+            "annotations": [],
+            "text": "{\"message\":\"I will continue to make independent bidding decisions for each contract, based on my costs and the auction rules.\",\"stance\":\"none\",\"plan_id\":\"none\"}",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": "final_answer"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 0.98,
+    "background": false,
+    "completed_at": 1793952392.0,
+    "conversation": null,
+    "max_output_tokens": 2048,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+      "context": "all_turns",
+      "effort": "low",
+      "generate_summary": null,
+      "mode": "standard",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "name": "agent_turn",
+        "schema_": {
+          "type": "object",
+          "properties": {
+            "message": {
+              "type": "string",
+              "maxLength": 600
+            },
+            "stance": {
+              "type": "string",
+              "enum": [
+                "none",
+                "propose",
+                "accept",
+                "reject"
+              ]
+            },
+            "plan_id": {
+              "type": "string",
+              "maxLength": 32
+            }
+          },
+          "required": [
+            "message",
+            "stance",
+            "plan_id"
+          ],
+          "additionalProperties": false
+        },
+        "type": "json_schema",
+        "description": null,
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 975,
+      "input_tokens_details": {
+        "cache_write_tokens": 0,
+        "cached_tokens": 0
+      },
+      "output_tokens": 41,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 1016
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "access_programs": null,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "total_tokens": 0,
+        "input_tokens_details": {
+          "text_tokens": 0,
+          "image_tokens": 0
+        },
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        }
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    },
+    "store": false,
+    "image": {
+      "context_compression": "disabled"
+    }
+  },
+  "elapsed_seconds": 2.058614875000785
+}

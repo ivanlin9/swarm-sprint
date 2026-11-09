@@ -1,0 +1,29 @@
+{
+  "contents": "Current source, vendored source, configurations, raw experiments, results, plots and filtered legacy source",
+  "excluded": "Markdown, README files, credentials, Git metadata, installed environments, caches and duplicate compressed bundles",
+  "upstreams": [
+    {
+      "directory": "external/concordia",
+      "revision": "4e4aec94b76b937c6d491cc4fc414ab92fd080c5",
+      "origin": "https://github.com/google-deepmind/concordia.git"
+    },
+    {
+      "directory": "external/govsim",
+      "revision": "1d11adf047b24fa2ba0d44a1d4931015ea2e5210",
+      "origin": "https://github.com/giorgiopiatti/GovSim.git"
+    },
+    {
+      "directory": "external/moltbook",
+      "revision": "775530d40d1b458c544bbef600587e3cab42fa55",
+      "origin": "https://github.com/int-park422/llm-multiagent-data-poisoning.git"
+    },
+    {
+      "directory": "external/oasis",
+      "revision": "99e92df59ad834cb5ce1101249bffdd9ffcacadb",
+      "origin": "https://github.com/camel-ai/oasis.git"
+    }
+  ],
+  "current_files_copied": 24852,
+  "legacy_files_copied": 601,
+  "reproduction_note": "Original manifests remain unchanged. Markdown protocols and Git metadata were omitted by request; strict source-hash checks need those original files and pinned upstream Git checkouts restored. No paid execution is authorized by this export."
+}

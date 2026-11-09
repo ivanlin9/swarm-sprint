@@ -1,0 +1,6 @@
+{
+  "paid_enabled": false,
+  "scope": "oasis-calibration-v1",
+  "additional_cap_usd": 0.10,
+  "shared_govsim_oasis_cap_usd": 6.03
+}

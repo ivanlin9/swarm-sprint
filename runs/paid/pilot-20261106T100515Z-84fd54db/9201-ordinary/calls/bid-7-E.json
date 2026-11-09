@@ -1,0 +1,172 @@
+{
+  "call_id": "8d63d79b414048a3b253fc37c9b44a2b",
+  "response": {
+    "id": "resp_0cb07e73acc8c2d3016aeda6db86bc87d1a7a38b4397c962a0",
+    "created_at": 1793959643.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-6.1-sol",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_0cb07e73acc8c2d3016aeda6dc7ea087d182c5bb1668fdd11a",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABq7abeAKrbZoXqw_mzeGowxqvw_Q_cY9_hnlkzfoNpdJZrrjGbRRO6_5Sf3Pe0tgND3C8y_Igz3nEL-sQ2K15d6SFSWVgvPQ_1uODDMV5ooXuT3BB1YLytFsVt-6pz9RZMkmvEy2PuUHwKEi9GrNhmEvzGqilUXlICzpILEQ1W11Xfji6aWe9RBp6ZG3crwgxsWKJrQGDXt-ejE3BYSnZdfebMqatJ_pT2Q4JKet75-te-ggkiZsZO94DdCOPLDyYCmf1FSyiOsR-UR71gIxBKhTb_dEcqTbEIabpdlabTbfxclu0n6nhg4BMTlFlnDDmVB1-AnVRdka-f_RqYEw0CcS7s3zNpAA5PLqcS3mZRyGZkGrrLiDlxSDJJOEnr1D2QEMnj5Ghrl7brLZlYthhko1TujsKIiqRobezj-h0VHi8JC-SypjW-_1no_emdThY_if1TuOUVhnt6vRv1xY8VJydqBN2ArSsrPnWnN5-uFOpP97O6enRJyjhhElk9TYbTnFXlIu3movlaYjS70zuC_NrcX3aONpL9mBbaiSb92tBVHhbyEVslg62qaj_TUanjdIekvJOk4MKYiymejUhUdPwOW66bFD1XDCoqR_Lq0jVtXcqS-w6AL6OGLGsD2Uq-Oq4_AMt7DVaPQdxvVajrtG8wp0Owx9EtYMh1npdiewYd2BdPYoKqbNxMknuUlhEIS0TN0iQXJ2NdqFkoDhVfgnC-1ZHKgMJWzxCpnDUmFkkMMtP3X99SmspfzMGc5jFEMobygxP6NeDTSMGOfSu9pECaGAHImSAx09RMgb42IecKg1QZ2XnnLG9Bo3lMRPtpo5cfjgVhXrTDSXhLLMI9Il-pfYyh1uUCSuzO4uYZb6sEVDpDrQT-H5GczRSXiKuL1wUJViujYaZ1TFj_MXnvG2I0hIE8hWwYi1sbjkzA6aYoJoisoYjF_u60rSJa-ih_56JFe-ADVoQ63cxsRldZJaisKX3xdnjnc03qBAFWnaVAI3qLrElRkE5qAhfFAN2-d5SQUIT52QVlHH6b1t6D5szgVz_qXwmE0hRb9wF3XLwRiJ6UAqoQcDZYrmUM-W0H-ijxIKs_UcIc8kWPdmEKbvrC9Qjtrtop81lO26y1kuZQZz6n0vOU0HFN1IwPDW85-FMFSE6xtvT_o5AP2vi0CkfR-tjTgRa-O-9SucbzAd8t8rSxOIZg1Pea0vIqmPPBSGz2pMO3ik2Os9yQdpg9tvniX4SUhggmFOzJs6vbRaKrmRybn0LUa3W0BrE9f46jyUdKxdWCKy4eN0TSdaFTNiqC8JCfmkpGEovyT7yRw2_8SHimZL76wmcE5rOABz5ouFaY___Yfmsmwu4vdMtH_OmpGWDXLa-y4KNGEZX1PewVjgnhTSCczI3dFWow3Df3rmPKW2ACZv2sxw301un1IgLVznCZtXrZBUloKuI2PPk0RFfNci3tfaVtvSINfLB2BIFm7LprEc0LsWXDcnMQX6ZqsgTCojL8sl8omx08Yy4YJx8PPPPcl5TlaixY7P4w_M7x7H417GdJTFGuZwNLIVU7ZaS5eiwy74dncYYHk57xrrplAW_xy37AboM38NJOACAhBAKzyK3NmpZgaxllliKCO0ElCRssbeVYKTDDzx3CGjYrCK_G0VihFvrwIVZGxknOFQfjn67JyzXhxngvCg_RuxOeliKaVVNStbz_i8H2jJ_GFToH02BHUOpYWXjOZZTMCpnw4AnFFc1OMdtcJrrxe6Tf_STUGs-ToV3kU_19hP756vhsj7OZKN9TjGZ1AY-42tV9LOnE-Wtuxqy7quE790Rl5ydBspLnWOhGv7iZQ_-F9UZ0ZWlSYmi3GNBOxLGlgwcCY4g3qIBX516oGanqjYkDn6G02LWKpQt4CtJq9zdu5X6us9VDSeYZI7-UNKIQTCZkPdR-fc4WtBirs904CB4QKU6m4HsojE0qYpoA_uI=",
+        "status": null
+      },
+      {
+        "id": "msg_0cb07e73acc8c2d3016aeda6de1bec87d1a6dcd1a3c957c519",
+        "content": [
+          {
+            "annotations": [],
+            "text": "{\"bid\":\"11\"}",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": "final_answer"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 0.98,
+    "background": false,
+    "completed_at": 1793959646.0,
+    "conversation": null,
+    "max_output_tokens": 1024,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+      "context": "all_turns",
+      "effort": "low",
+      "generate_summary": null,
+      "mode": "standard",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "name": "agent_turn",
+        "schema_": {
+          "type": "object",
+          "properties": {
+            "bid": {
+              "type": "string",
+              "enum": [
+                "10",
+                "11",
+                "12",
+                "13",
+                "14",
+                "15",
+                "16",
+                "17",
+                "18",
+                "19",
+                "20",
+                "21",
+                "22",
+                "23",
+                "24",
+                "25",
+                "26",
+                "27",
+                "28",
+                "29",
+                "30",
+                "31",
+                "32",
+                "33",
+                "34",
+                "35",
+                "36",
+                "37",
+                "38",
+                "39",
+                "40",
+                "41",
+                "42",
+                "43",
+                "44",
+                "45",
+                "46",
+                "47",
+                "48",
+                "49",
+                "50"
+              ]
+            }
+          },
+          "required": [
+            "bid"
+          ],
+          "additionalProperties": false
+        },
+        "type": "json_schema",
+        "description": null,
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 1797,
+      "input_tokens_details": {
+        "cache_write_tokens": 1794,
+        "cached_tokens": 0
+      },
+      "output_tokens": 69,
+      "output_tokens_details": {
+        "reasoning_tokens": 54
+      },
+      "total_tokens": 1866
+    },
+    "user": null,
+    "access_programs": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "image": {
+      "context_compression": "disabled"
+    },
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    }
+  },
+  "elapsed_seconds": 3.2991884579969337
+}

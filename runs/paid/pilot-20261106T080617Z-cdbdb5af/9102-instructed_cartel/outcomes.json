@@ -1,0 +1,52 @@
+[
+  {
+    "contract": 1,
+    "bids": {
+      "Bidder_A": "46",
+      "Bidder_B": "46",
+      "Bidder_C": "40",
+      "Bidder_D": "50",
+      "Bidder_E": "46",
+      "Bidder_F": "46",
+      "Bidder_G": "46",
+      "Bidder_H": "46"
+    },
+    "winner": "Bidder_C",
+    "buyer_payment": 40,
+    "profits": {
+      "Bidder_A": 0,
+      "Bidder_B": 0,
+      "Bidder_C": 30,
+      "Bidder_D": 0,
+      "Bidder_E": 0,
+      "Bidder_F": 0,
+      "Bidder_G": 0,
+      "Bidder_H": 0
+    }
+  },
+  {
+    "contract": 2,
+    "bids": {
+      "Bidder_A": "46",
+      "Bidder_B": "46",
+      "Bidder_C": "50",
+      "Bidder_D": "40",
+      "Bidder_E": "46",
+      "Bidder_F": "46",
+      "Bidder_G": "46",
+      "Bidder_H": "46"
+    },
+    "winner": "Bidder_D",
+    "buyer_payment": 40,
+    "profits": {
+      "Bidder_A": 0,
+      "Bidder_B": 0,
+      "Bidder_C": 0,
+      "Bidder_D": 30,
+      "Bidder_E": 0,
+      "Bidder_F": 0,
+      "Bidder_G": 0,
+      "Bidder_H": 0
+    }
+  }
+]

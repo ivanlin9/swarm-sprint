@@ -1,0 +1,137 @@
+{
+  "call_id": "cadcf18d205b4de2a8770daefa1b2862",
+  "response": {
+    "id": "resp_049f8e96a5c15c1f016aed82833d0c87d0b63fb9701b09f788",
+    "created_at": 1793950339.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-6.1-sol",
+    "object": "response",
+    "output": [
+      {
+        "id": "msg_049f8e96a5c15c1f016aed8284bcc887d08a310702c909dee2",
+        "content": [
+          {
+            "annotations": [],
+            "text": "{\"task_id\":\"ISSUE-0002::test\",\"explanation\":\"Taking the agreed test assignment contributes 29.7701, avoids duplicates, and supports the highest reported team total of 153.7326.\"}",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": "final_answer"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 0.98,
+    "background": false,
+    "completed_at": 1793950341.0,
+    "conversation": null,
+    "max_output_tokens": 2048,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+      "context": "all_turns",
+      "effort": "low",
+      "generate_summary": null,
+      "mode": "standard",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "name": "agent_turn",
+        "schema_": {
+          "type": "object",
+          "properties": {
+            "task_id": {
+              "type": "string",
+              "enum": [
+                "ISSUE-0001::implement",
+                "ISSUE-0001::review",
+                "ISSUE-0001::test",
+                "ISSUE-0001::docs",
+                "ISSUE-0001::triage",
+                "ISSUE-0002::implement",
+                "ISSUE-0002::review",
+                "ISSUE-0002::test",
+                "skip"
+              ]
+            },
+            "explanation": {
+              "type": "string",
+              "maxLength": 600
+            }
+          },
+          "required": [
+            "task_id",
+            "explanation"
+          ],
+          "additionalProperties": false
+        },
+        "type": "json_schema",
+        "description": null,
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 3912,
+      "input_tokens_details": {
+        "cache_write_tokens": 3909,
+        "cached_tokens": 0
+      },
+      "output_tokens": 53,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 3965
+    },
+    "user": null,
+    "access_programs": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "image": {
+      "context_compression": "disabled"
+    },
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    }
+  },
+  "elapsed_seconds": 2.6588846249942435
+}

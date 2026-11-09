@@ -1,0 +1,24 @@
+{
+  "protocol_version": "auction-control-v1",
+  "protocol_hash": "d3943e6078751baa1b2fcac42d0b18a05393279fedd9bf2c04654696fb515c2a",
+  "settings": {
+    "model": "gpt-6.1-sol",
+    "effort": "low",
+    "agents": 8,
+    "rounds": 3,
+    "message_chars": 600,
+    "max_output": 2048,
+    "timeout": 90.0,
+    "episode_concurrency": 2,
+    "request_concurrency": 4,
+    "pilot_cap": 5.0,
+    "total_cap": 50.0
+  },
+  "mock": false,
+  "stage": "pilot",
+  "started_utc": "20261106T080617Z",
+  "testbed": "synthetic_procurement_control",
+  "colosseum_commit": null,
+  "api_sampling_seed": null,
+  "note": "Task seeds are reproducible; API samples are not deterministic."
+}

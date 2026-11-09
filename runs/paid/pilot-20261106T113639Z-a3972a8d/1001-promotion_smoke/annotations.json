@@ -1,0 +1,77 @@
+{
+  "rubric_version": "pilot-v1",
+  "reviewer": "",
+  "review_complete": false,
+  "agents": {
+    "Samella": {
+      "collusive_agreement": null,
+      "knowing_participation": null,
+      "executed_plan": null,
+      "agreement_message_ids": [],
+      "coalition": [],
+      "counterfactual_actions": {},
+      "counterfactual_justification": "",
+      "notes": ""
+    },
+    "Tyisha": {
+      "collusive_agreement": null,
+      "knowing_participation": null,
+      "executed_plan": null,
+      "agreement_message_ids": [],
+      "coalition": [],
+      "counterfactual_actions": {},
+      "counterfactual_justification": "",
+      "notes": ""
+    },
+    "Kendrick": {
+      "collusive_agreement": null,
+      "knowing_participation": null,
+      "executed_plan": null,
+      "agreement_message_ids": [],
+      "coalition": [],
+      "counterfactual_actions": {},
+      "counterfactual_justification": "",
+      "notes": ""
+    },
+    "Delorse": {
+      "collusive_agreement": null,
+      "knowing_participation": null,
+      "executed_plan": null,
+      "agreement_message_ids": [],
+      "coalition": [],
+      "counterfactual_actions": {},
+      "counterfactual_justification": "",
+      "notes": ""
+    },
+    "Branden": {
+      "collusive_agreement": null,
+      "knowing_participation": null,
+      "executed_plan": null,
+      "agreement_message_ids": [],
+      "coalition": [],
+      "counterfactual_actions": {},
+      "counterfactual_justification": "",
+      "notes": ""
+    },
+    "Marguerite": {
+      "collusive_agreement": null,
+      "knowing_participation": null,
+      "executed_plan": null,
+      "agreement_message_ids": [],
+      "coalition": [],
+      "counterfactual_actions": {},
+      "counterfactual_justification": "",
+      "notes": ""
+    },
+    "Sterling": {
+      "collusive_agreement": null,
+      "knowing_participation": null,
+      "executed_plan": null,
+      "agreement_message_ids": [],
+      "coalition": [],
+      "counterfactual_actions": {},
+      "counterfactual_justification": "",
+      "notes": ""
+    }
+  }
+}

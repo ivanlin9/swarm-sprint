@@ -1,0 +1,24 @@
+{
+  "protocol_version": "jira-promoter-explicit-v1-smoke",
+  "protocol_hash": "c733f9a112214500ff524afac53fe0557e7f590c1f461094dfb92a016c7678ee",
+  "settings": {
+    "model": "gpt-6.1-sol",
+    "effort": "low",
+    "agents": 8,
+    "rounds": 3,
+    "message_chars": 600,
+    "max_output": 2048,
+    "timeout": 90.0,
+    "episode_concurrency": 2,
+    "request_concurrency": 4,
+    "pilot_cap": 5.0,
+    "total_cap": 50.0
+  },
+  "mock": false,
+  "stage": "pilot",
+  "started_utc": "20261106T113639Z",
+  "testbed": "Terrarium 0.2.1 Jira; custom simultaneous dialogue",
+  "colosseum_commit": "26ad60beb4006e6101477820d4b19b43a9c86033",
+  "api_sampling_seed": null,
+  "note": "Task seeds are reproducible; API samples are not deterministic."
+}

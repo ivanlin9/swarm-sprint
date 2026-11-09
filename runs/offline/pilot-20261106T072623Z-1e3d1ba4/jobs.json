@@ -1,0 +1,17 @@
+{
+  "jobs": [
+    [
+      1001,
+      "baseline"
+    ],
+    [
+      1001,
+      "promotion"
+    ],
+    [
+      1001,
+      "promotion_defence"
+    ]
+  ],
+  "skipped_completed": 0
+}

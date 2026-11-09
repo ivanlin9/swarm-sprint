@@ -1,0 +1,13 @@
+{
+  "paid_enabled": false,
+  "scope": "govsim-selfish-baseline-persona-v1",
+  "additional_cap_usd": 0.6,
+  "shared_govsim_oasis_cap_usd": 45.0,
+  "indices": [
+    10,
+    11,
+    12
+  ],
+  "max_calls": 60,
+  "deadline_utc": "2026-11-09T03:00:00+00:00"
+}

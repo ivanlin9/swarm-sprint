@@ -1,0 +1,9 @@
+{
+  "paid_enabled": false,
+  "main_enabled": false,
+  "scope": "concordia-chain-smoke-v1",
+  "max_calls": 20,
+  "additional_cap_usd": 2.0,
+  "testing_cap_usd": 12.0,
+  "total_cap_usd": 45.0
+}

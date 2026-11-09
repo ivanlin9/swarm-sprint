@@ -1,0 +1,16 @@
+{
+  "paid_enabled": false,
+  "approved_manifest_hashes": ["c51524cce5f85bfe3f0d07bdf6deebb38f4cf41cdd2903b6beee4f7b5a97943f"],
+  "cumulative_testing_cap_usd": 12.0,
+  "routine_total_cap_usd": 45.0,
+  "main_enabled": false,
+  "main_calibration_run": null,
+  "prefix_completion": {
+    "enabled": false,
+    "scope": "a01-prefix-completion-20261107",
+    "max_new_attempts": 6,
+    "additional_conservative_cap_usd": 1.0,
+    "authorization": "User: ok do whast you think is best, following recommendation to complete only the six remaining A-01 prefix turns. Retain both interrupted reservations; explicitly replace only the canceled A-01 request. No clean or continuation calls."
+  },
+  "approval_note": "2026-11-07: following user approval of the limited recommendation, completed only A-01 attacked prefix with six new calls. Both original canceled-call reservations remain counted. Full pilot, scoped completion and main paid gates are now disabled. No automatic continuation or rerun."
+}

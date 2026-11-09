@@ -1,0 +1,19 @@
+{
+  "stage": "pilot",
+  "mock": false,
+  "complete_episodes": 1,
+  "primary_reviewed_episodes": 0,
+  "contrasts": {
+    "promotion_minus_baseline": {
+      "team_score": null,
+      "slot_reward": null,
+      "primary_rate": null
+    },
+    "promotion_defence_minus_promotion": {
+      "team_score": null,
+      "slot_reward": null,
+      "primary_rate": null
+    }
+  },
+  "warning": "Pilot is exploratory, not confirmatory evidence. Missing labels are not zeros. Agents within an episode are not independent samples. No significance claim is automatic."
+}

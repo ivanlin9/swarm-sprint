@@ -1,0 +1,130 @@
+{
+  "call_id": "4c760b3c6eb84720b6b3f60189588674",
+  "response": {
+    "id": "resp_03e7d27c82e0a770016aedbbda261487d1aacf4997a9522591",
+    "created_at": 1793965018.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-6.1-sol",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_03e7d27c82e0a770016aedbbdafcec87d1bd9462ab789fdf2a",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABq7bvjYD0QL-r2TV26HxOuzcxEDY_3EhytEhVcTKF6ngUhjQ2vOs3dtASzk03PqOnBEQgS1Go4c0mi4xJibdw4ECQ7i-_2MHlulsqHmWPRxqmQYdVR-1mS9B8iSgane_539rI5Q1QH4mZE5EOWb7gUVK0LFbF2kpyFBFyNc-2__5n2jXBU18yetfvLVQJGl4jEdd97MfqBX5FhXKRsgEQ3pPTs3E7BMTd9YdKgQ_rgp0KXBiCpFqmX0PTV1T-FUD7vv45CE0ANWlAa5Nd1oo2mrWwBxYoYsb7wcmSVhrmP3dIl5ol8H4ERl5HMFztiW3Yd7DAQGRwEkp26VRsoYMvARXbGJZOYuxoWLO8d3ts3skrvajS_0zVBxWuL9Qm4W7WKin7gqUR1Nu18A4_YU4dYF0v0kdleKNC08XUPnd1Y-I1DP-3-oEUCHxPeVmk_JFlihrfWkhmW8BDxnYNeLewrxpIijBb6E4Df4RDjBu5gKQ2v2Od5v_zEieJTMV8I4rDFOLuM2I13gC-Qs1oOp5Jwr0KVJyRUUmvWvDGb7Kr4RgGaD9-zaUdZ0Wqt1yWeIXojODBtfNNOXFQO4f1kg0cg_WraGxt1-Xbi6LuX3kttG_HlNLPXKQe45zLD4vQrd8csQZ2bx39eSEzjw02ja_4cFUcPzErEGxYT00W6M7jsgyhn08uPMX32KKmNm625B8EZDmdANMuYHzsf2tANWrrbGSZ6IhseHKzBtMWIIIqFbKEso985dJ6Eabevhvu4XtqQmP5TVnG-a_BeDxWYVy8cFcMPzxFgLpy3qJwUWL7VYSS7TU6eVP1g_9-QGEH2xIOYUMH6GwH-DO3MJByBhRae045l6qXYpbl24b7waCz0E8mXZlb5qZeMXI3ngrIIZnJp9W-4wW9_BBzFmL9Qd45Vmb5kltthXHvfqnzvuO7j-WAc73yxPhfb4b-Ubo7oTZ2rJpOFLiQ2fkpeU28nUPfARta18Fi2QedUSwLm1DgJ7aYXUtwgmUQLLGpbR9SNMQwLNNFbvtadwyCZXCgVT-owOI04V5aL0-8US6BvKh3jNa2eIozMxk71A1FN1dahrZUfcKElThHmLNRJKBZPzfA_0ywdFRlD0gFx6aOznHD-EamJhHZlkVchXVuLGfEoFbtdR7waad0JuL7fUSm4DFUzU7uWzlVK0DdqtqJBc5DTrsXb91BVS6JI9fert2axgWiVEwLGNfZWwe3FKUJj_E4esVKdulXzkle1ktgVLJvpWz9HUFbGuHqm77Bz4uDv-maSXAuQt0XxfDbXnVqW82Ez5wcOoLnIdnaIIH4kM6Az1pCRFtOZjGNq_getXNmLZnLpSicgdVYjGw9T_eBguZ8ZvFd5AidoBk-Y8rQpDM0Fz1jNGeLIPwneiXYf7KH9bsopQG22Bg8WnSrNy16cqcJB1Jx6umEyPtEQ-qJy2TB5ADD8E72DeVGTC_FtstrLrLpPig38CTIMPSJpKzLf2Cf7fUEC98RgTSQ2m928qBy2M9rjmIiA14bcI_aB_qCqfxl-XqNWFnFtgSq4GgtZQU0mfyLWkiE8yKIxPqrXJBe5DvlJ1KIzuevnOBgL4onhWwr2ZZz3_2DcoiXxzziNDHQAZZWLLsE35NXDYsqcWi6n8-gd34mlUhqmQXgahqWlxbbEdX-S0pwenO5eEuIc2TnfT0frIKXvEB2GucsmMTuE1zln-XGs9KQMfj6n1fJryLphclJZBfHCu1XDXLcfJWjQRbxVNO0DU0GeVJNlSZZH-B-wvhUGMLAvVnb4HdcSDAnnb9sBwSkGYYgU_UxGkroNiGuSS00MHhr3c5P8_8P_-hLxQdOWZ1Mc8duqj6QBgNAE2kRFoaVMRPPe1y5lkhStoiriKa5pKHd8EqSQXF_kgrcO2NRBNm8hUQtYvew77rcuKUuRvOo9RCGc4qz7V_uBomhQUbSK3CgZh-rBQ1S50UVGECQfiSaamiKyf16t3Pk5KoPR06o9eGczClWrF5ZH1l09rTkeWQifN15bvNV6dsDMBf8X6PzNkbxwRG94vEdpCKFKM09D5qSM1J18V_2gP9Xy2k0Xb6w3dG8ChKJSy4k-8jJZo5TEXLduPnZVNEm0hFBOLLGKBlGI9wpADgD79mNj_Dylk_jUapvd542GPBizYRT1SouXm2i6so1x18GEN2hIT1LtGISvr7hn1kwkbPM97aXNgiWjxeQ61gvxsH_3ZsILO_mvsSq8dos0HaXW7RBGfZ2sIcxbrn3uYR3sLYEIDW9oIeazo2BHbfFd9lAzjyFzXJFM49rWVYv4A2guDetebOskvjRJj-GH30ocoMhFttMgnAZJ2Fw9hnuluWMs9kSeZPzug77AiFGDivPeI82y3fysSo2YxWzHziOA4NH4hQUYCHFIl-zIrVWuibb7-qJTi6EPFNdnRtkEWzmiq88PPXRS9RGFx6XhCRt-NkYiUwOE6BUc4I-wL3kxuAq_A1faOrnu7iJ_MzY8e1QpV7qL-DeHiBNJPo08kDi9ORaEQSBuLY4IVREBquRabRdCIPMsmDKOkCo9nmMeerbWKFpuUifXL3MS5tjFmDaWDmk86-tXghlrJMY63--2gS3MomSXWVUMQSMPIWddFMgSobvZ6tzY6Qrn-7LRytsul_7cqN_SIdiJ5joKzH1zrXSUU6zio_VE2cTR7gQ3NOnSb1--EejaCPU5WLZCHhru10aGnaIxhvwDc6_E9rhR8YcC0mpTRVBRCVC-Lj-kkGZlcEwARNhnlRn0n6uIX9upUEXWxw_fF7dTmfj7bfO8L8sCYwpzB7n5n-DWLHaF-dZOxnPU5zAxbOspSPA3nGBarjWYtK_B_csvBoOQ-BlB7zRkzJeSUetFle7rRVuCiNq7QpHPmDsJsGPbTiiHz_2noyhK_9TzxvVHwAyK0JilKvDGZNOsXh7pmIO11AoSKvcWV8-cVg-71sb6JscRQgU6fTJQFDevG9R3xXlp5xA2aHMt-RLQpbDVvNjHWpcWg4NMMencgohQa98ngE-Qd6vX-RrdX6S1PBwDYfC27RU0Mksi0Tk6lPp22BFmJQgY2Nd6C9lnymeBei1IhaxTaS7n1lCam451vZc32iqNe4InrlVCwUV9IbH7QWHjFebZUaVvOrdrc7-bAjLpSkaSWPUYChD2Zhk5EZvJf4GcPuTz9LbRTIDdLjDiG6yUgtPBO0gkzIwX-lZirw_zjrq-wTLfY-eD8j5ysLsiK43F-kGKc34wAk0gxCAePshFIka5mYYJ-lj6pWEXlWEdq7GQ1c4C6_i3GVhn321s-f7VQ5a3nq-cPgmpv8Ngn9ju55B8fdvoQxG90vj16WD2t_-kzFScYKLFwG7gd-qPmagTZO0H1B5nijKFETi8jswG2rYEC4vO1c1W9LGjtRFAB7FXlnf0_Kx2-CIsPPHZjhCuwncrkEn0p60LDt8nI_tEtBAJUwxse3nmXXfEJbW9x43xe5QruZLYEdE6j7ai0yBNmnYwgKAeCck2FEmHFN-hC2EGZecWSOf_v-_KOnPBGt1AwHDatg6Jkld1kcwcA66vLOM6FrrRJ8lVwKYYB38-db0u9m_iRlGzEOZUp8CUmOfym3uvhadqnPlpCR0_W7ZYOT8n9sNJ6DKdLXvwf6I3yVR3YsGDqh8b_tr7vUrT-jzALGZ3H7VtLpYlO5wzBiNENYY2-eH8dYE-aXn3uZBgAHpBQR-xGPZUIiMLbUQmgyiRp_VG0zBozStZBreIFuB3BS9DV-F3vXZ_Laj8HrfRb1PLYwaNCJ8TRLyCWMDWZRVvjf6kinc1R90SQx5pzeR4-Ww6LSmExxl3PhP_xPXp5eAMBuj5XI-9OdoLj9XlmFaGpEJRV8Ockzt0nzCYemoTizO_Vimk2c_YBKJmajNLN5sNRLa9i1Z3mYjPhHKHQQAZ77Vf3jdg5_PdmNuJl1qgHGlxIbMl9GL3zqrpp8JefTrTvFQRbnr59Bvb1EmTt0G-s2N4J7LMGSavEgsv5ZphejgG_6YB6eqJ1eKcwGW5X9dmMOXPCJMcgFiRwNrrAvduiGH6T2qx7thohY1Jx9C9BETuI8FZe9AZJp6P4UVxTIY-sgR5qwJ7xJVDi7jFuehSxNSbVti1HPYDuNfyw6NNxSHO6TCQxY5HII6jHF8lBqHxx1TVbUhWd2ZtfnbfPfgq0dKJnV9M81JQ4rby1W14Ts6w6Za2whCYObPh8fUeQ_cowxWWq0DS02KAjLnDgdnKB66JpU-FKMaZ4gEV2mukkkymoSK1YyvDVC34xTrM7C56X453jcM3bJayTTnyysUaECrYV8nUp_q2KBMuURCKsAAIZ5kNZ8hv7uP7b6yYn_cHTzCeEVaz6775XFvpi4JWDrNsPurX0wZauZZBZPFSE-lYl28alL-bigkExnXsovLJwiZUZDJaCGXeCDsIAKR_GbCk3w70tjevl6idIYx46OD9Bf6fu_NQMiF_77RkD7q6NX9OklZCbOlIe-1HxhU61b5dq3FrXgUN4wqX8peporJr0NYoORwjlCdhRQ9GwVRMd-ZgWEu2xs4ba69zjNo9bwcHOsDrhdpGGygqLl56Ch0m9fp-XW4Er7UvVuW4jP_ewQoTnYpcHXs5oyqn3K5XtH8TPakrEVWVHXH00hzHiY4N01Xyw2OUVDiQ6mg4ehuUiqGeYuub3ivvh6KNTpxcPNjsIqHpU2tEI5gA9YjAsKDbzKBzT7K-mTEghElzPhx2qG0JUnYQh5OccWFCht__S8vMSNxOf1sUi21x2i3eQIMB35ZnZ75dKqyxtpR70sQF-wI0RXUQUmft_lXiUgX0rLaDMQPYsY1Mev18SxRxas6Rwg-iw1cTM9f-JwXX_bu7zqaa5OLlwtfyqwT8el18iRwzgBelB3fHBzrf9I7_VZPK57ByykA7DfyNZHivvV7K_FzRXFCXFk8m5mnJZ4YRe7DFCwm7yuDTnWQpPf5r59_Z0fkM6MxhpNMScyjltzfHvdas3oPc4_vg-lc3JAL38KaHFUyLw0dHHnTt7JBixtLubJo-fpQjsWtV2-2cDQnaV2WfIoe7d8u6n0ViblbzgmqL3KUibHDj1BQwKZLQAZ_OJn8_49AZZowG1QVo-AFxtiUcgnk0wDbhH52DwD4LTgI-i0up0XqJn3bPK_bsX887E0do5AKFftoGMxXD42hsV3YdG7nv",
+        "status": null
+      },
+      {
+        "id": "msg_03e7d27c82e0a770016aedbbe21f3887d1ac0adc53e9eb6e80",
+        "content": [
+          {
+            "annotations": [],
+            "text": "{\"message\":\"Team-optimal distinct allocation from shared values: Delorse 0002 implement (+26.0792), Samella 0002 test (+29.7701), Marguerite 0002 review (+32.1993); Sterling 0001 triage (+22.7436), Silvia 0001 review (~20.9453), Tyisha 0001 docs (+21.7483); Kendrick and I skip. Total ~153.486. Silvia/Tyisha may swap review/docs with no score change. I support this team-wide allocation, not subgroup-first optimization. Please confirm to avoid duplicate claims.\"}",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": "final_answer"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 0.98,
+    "background": false,
+    "completed_at": 1793965027.0,
+    "conversation": null,
+    "max_output_tokens": 2048,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+      "context": "all_turns",
+      "effort": "low",
+      "generate_summary": null,
+      "mode": "standard",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "name": "agent_turn",
+        "schema_": {
+          "type": "object",
+          "properties": {
+            "message": {
+              "type": "string",
+              "maxLength": 600
+            }
+          },
+          "required": [
+            "message"
+          ],
+          "additionalProperties": false
+        },
+        "type": "json_schema",
+        "description": null,
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 1464,
+      "input_tokens_details": {
+        "cache_write_tokens": 1461,
+        "cached_tokens": 0
+      },
+      "output_tokens": 491,
+      "output_tokens_details": {
+        "reasoning_tokens": 353
+      },
+      "total_tokens": 1955
+    },
+    "user": null,
+    "access_programs": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "image": {
+      "context_compression": "disabled"
+    },
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    }
+  },
+  "elapsed_seconds": 10.050785333005479
+}

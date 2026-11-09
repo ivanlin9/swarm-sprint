@@ -1,0 +1,98 @@
+SWARM EXPERIMENT PLOT COLLECTION
+9 November 2026
+
+13 existing empirical plots, copied without altering the originals.
+Start with main_findings/01, 03 and 04.
+Full evidence review: ../../docs/ALL_EXPERIMENT_RESULTS.md
+
+MAIN FINDINGS
+
+01 Matched attack strategies
+Six matched blocks. Ordinary extraction increased under clinic deception,
+but not overt competitive recruitment. Strong main-story comparison.
+
+02 Clinic bridge replication
+Eight complete matched blocks plus two extra complete episodes.
+Shows the clinic result surviving full ordinary participation.
+Paired inference uses complete blocks, not all cells indiscriminately.
+
+03 Discussion ablation
+Five blocks. Deceptive influence occurred with and without ordinary discussion.
+No added discussion amplification demonstrated. Small sample and ceiling caveat.
+
+04 Recruiter count and requested catch
+Final complete study: ten blocks, seventy episodes; three fixed ordinary recipients.
+Requested amount mattered descriptively; more recruiters did not consistently help.
+Neither primary contrast was statistically significant after correction.
+IMPORTANT: the dashed baseline is only its mean. Baseline totals ranged 30–57,
+with SD 11.85. Do not interpret the line as a constant or confidence interval.
+Pale lines show block observations; overlapping identical observations can be hidden.
+
+05 Corrected bargaining
+Six complete blocks. Honest bargaining changed ordinary choices; malicious
+bargaining did not. No harmful ordinary-action endpoint occurred.
+
+NEGATIVE AND EXPLORATORY
+
+06 Recovery rule smoke
+Three-block factorial pilot. Recruitment affected actions under modified recovery,
+not original recovery. Descriptive only; not pooled with the larger count study.
+
+07 Three scenario null screen
+Fishery, pasture and pollution crossed with zero, one and two compromised agents.
+Only one episode per cell. Related economic mechanics, not three independent replications.
+
+08 Selfish agent count null
+Three blocks. Ordinary actions unchanged with zero, one or two selfish peers.
+
+09 Baseline persona null
+Three pairs. Removing extra village/family goals did not produce ordinary influence.
+Long-run income instructions remained. Not proof of general resistance.
+
+10 Bargaining pilot — PARSER CAVEAT
+Three blocks. Eight ordinary fractional answers were truncated by the old parser.
+Exploratory historical record only; do not use as clean confirmatory evidence.
+Plot 05 is the corrected follow-up, not an interchangeable replication.
+
+11 OASIS task choice null
+Two matched development trials. Ordinary preferences did not switch.
+Homogeneous initial preferences and an unclear harmful utility objective limit inference.
+
+12 Concordia voting initial null
+Twelve matched pairs. No ordinary unjustified target downvotes.
+Initial source roster information was defective; retain that limitation.
+
+13 Concordia voting follow-up null
+Twelve fresh pairs with corrected roster and changed strategy; still no target downvotes.
+Do not pool the cohorts or treat individual agents as independent trials.
+
+INTERPRETATION
+
+These plots concern ordinary-agent outcomes. Source actions are not influence outcomes.
+Increased catch is not automatically harmful collusion. Probabilistic-recovery results
+must not be interpreted using original deterministic recovery as if nothing changed.
+Three-recipient and four-recipient totals have different denominators.
+Zero observed variability or zero events is not zero uncertainty or universal safety.
+P-values are study-specific; the full project involved adaptive exploratory selection.
+
+Superseded partial snapshots, offline synthetic test plots and source-only diagnostic
+figures are intentionally omitted. Originals and raw records remain unchanged.
+This folder is a curated viewing set, not a replacement for the full results inventory.
+
+PROVENANCE
+
+01 reports/govsim-matched/blocks-06-calls-126/ordinary_actions.png
+02 reports/govsim-bridge/blocks-08-calls-291/ordinary_actions.png
+03 reports/govsim-discussion/blocks-05-calls-150/discussion_effect.png
+04 reports/govsim-recruitment-dose/blocks-10-calls-700/ordinary_actions.png
+05 reports/govsim-bargaining-corrected/blocks-06-calls-202/ordinary_actions.png
+06 reports/govsim-recovery-risk/blocks-03-calls-120/ordinary_actions.png
+07 reports/govsim-breadth/calls-063/ordinary_actions.png
+08 reports/govsim-selfish-count/blocks-03-calls-090/ordinary_actions.png
+09 reports/govsim-selfish-baseline-persona/blocks-03-calls-060/ordinary_actions.png
+10 reports/govsim-bargaining/blocks-03-calls-081/ordinary_actions.png
+11 reports/oasis-decisions/calls-098/choices.png
+12 runs/concordia_voting/v1/analysis/smoke/pairs-12-calls-0360-study-0720-cost-v2/outcomes.png
+13 runs/concordia_voting/v2-roster-calibration/analysis/adjustment/pairs-12-calls-0360-study-0720-cost-v2/outcomes.png
+
+Provenance paths are relative to the project root, not this folder.

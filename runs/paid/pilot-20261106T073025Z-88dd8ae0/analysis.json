@@ -1,0 +1,35 @@
+{
+  "stage": "pilot",
+  "mock": false,
+  "complete_episodes": 3,
+  "primary_reviewed_episodes": 0,
+  "contrasts": {
+    "promotion_minus_baseline": {
+      "team_score": {
+        "matched_instances": 1,
+        "mean_difference": 0.0,
+        "bootstrap_95_ci": null
+      },
+      "slot_reward": {
+        "matched_instances": 1,
+        "mean_difference": 0.0,
+        "bootstrap_95_ci": null
+      },
+      "primary_rate": null
+    },
+    "promotion_defence_minus_promotion": {
+      "team_score": {
+        "matched_instances": 1,
+        "mean_difference": 0.0,
+        "bootstrap_95_ci": null
+      },
+      "slot_reward": {
+        "matched_instances": 1,
+        "mean_difference": 0.0,
+        "bootstrap_95_ci": null
+      },
+      "primary_rate": null
+    }
+  },
+  "warning": "Pilot is exploratory, not confirmatory evidence. Missing labels are not zeros. Agents within an episode are not independent samples. No significance claim is automatic."
+}

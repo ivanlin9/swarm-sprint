@@ -1,0 +1,276 @@
+{
+  "seed": 1001,
+  "tasks": {
+    "ISSUE-0001::implement": {
+      "id": "ISSUE-0001::implement",
+      "issue_id": "ISSUE-0001",
+      "title": "Fix machine-learning [implement]",
+      "tags": [
+        "machine-learning"
+      ],
+      "priority": "low",
+      "effort": 6.0,
+      "work_type": "implement"
+    },
+    "ISSUE-0001::review": {
+      "id": "ISSUE-0001::review",
+      "issue_id": "ISSUE-0001",
+      "title": "Fix machine-learning [review]",
+      "tags": [
+        "machine-learning"
+      ],
+      "priority": "low",
+      "effort": 3.0,
+      "work_type": "review"
+    },
+    "ISSUE-0001::test": {
+      "id": "ISSUE-0001::test",
+      "issue_id": "ISSUE-0001",
+      "title": "Fix machine-learning [test]",
+      "tags": [
+        "machine-learning"
+      ],
+      "priority": "low",
+      "effort": 4.199999999999999,
+      "work_type": "test"
+    },
+    "ISSUE-0001::docs": {
+      "id": "ISSUE-0001::docs",
+      "issue_id": "ISSUE-0001",
+      "title": "Fix machine-learning [docs]",
+      "tags": [
+        "machine-learning"
+      ],
+      "priority": "low",
+      "effort": 3.0,
+      "work_type": "docs"
+    },
+    "ISSUE-0001::triage": {
+      "id": "ISSUE-0001::triage",
+      "issue_id": "ISSUE-0001",
+      "title": "Fix machine-learning [triage]",
+      "tags": [
+        "machine-learning"
+      ],
+      "priority": "low",
+      "effort": 2.4000000000000004,
+      "work_type": "triage"
+    },
+    "ISSUE-0002::implement": {
+      "id": "ISSUE-0002::implement",
+      "issue_id": "ISSUE-0002",
+      "title": "Improve documentation [implement]",
+      "tags": [
+        "documentation",
+        "data-science"
+      ],
+      "priority": "critical",
+      "effort": 8.0,
+      "work_type": "implement"
+    },
+    "ISSUE-0002::review": {
+      "id": "ISSUE-0002::review",
+      "issue_id": "ISSUE-0002",
+      "title": "Improve documentation [review]",
+      "tags": [
+        "documentation",
+        "data-science"
+      ],
+      "priority": "critical",
+      "effort": 4.0,
+      "work_type": "review"
+    },
+    "ISSUE-0002::test": {
+      "id": "ISSUE-0002::test",
+      "issue_id": "ISSUE-0002",
+      "title": "Improve documentation [test]",
+      "tags": [
+        "documentation",
+        "data-science"
+      ],
+      "priority": "critical",
+      "effort": 5.6,
+      "work_type": "test"
+    }
+  },
+  "agents": [
+    "Samella",
+    "Sterling",
+    "Marguerite",
+    "Silvia",
+    "Tyisha",
+    "Kendrick",
+    "Delorse",
+    "Branden"
+  ],
+  "private_profiles": {
+    "Samella": {
+      "availability": 9.0,
+      "skills": {
+        "data-science": 0.8948352037350285
+      }
+    },
+    "Sterling": {
+      "availability": 8.0,
+      "skills": {
+        "machine-learning": 0.9636501774250801,
+        "data-science": 0.8934314218015368
+      }
+    },
+    "Marguerite": {
+      "availability": 4.0,
+      "skills": {
+        "data-science": 0.8255449768237217
+      }
+    },
+    "Silvia": {
+      "availability": 7.0,
+      "skills": {
+        "machine-learning": 0.6398630018910404,
+        "data-science": 0.952750072639574
+      }
+    },
+    "Tyisha": {
+      "availability": 7.0,
+      "skills": {
+        "machine-learning": 0.822594165182244
+      }
+    },
+    "Kendrick": {
+      "availability": 7.0,
+      "skills": {
+        "documentation": 0.7394345526878355
+      }
+    },
+    "Delorse": {
+      "availability": 8.0,
+      "skills": {
+        "data-science": 0.9493632438624009
+      }
+    },
+    "Branden": {
+      "availability": 10.0,
+      "skills": {
+        "data-science": 0.7732409792523836
+      }
+    }
+  },
+  "costs": {
+    "Samella": {
+      "ISSUE-0001::implement": 60.0,
+      "ISSUE-0001::review": 30.0,
+      "ISSUE-0001::test": 41.99999999999999,
+      "ISSUE-0001::docs": 30.0,
+      "ISSUE-0001::triage": 24.000000000000004,
+      "ISSUE-0002::implement": 14.61407154740369,
+      "ISSUE-0002::review": 7.307035773701845,
+      "ISSUE-0002::test": 10.229850083182582
+    },
+    "Sterling": {
+      "ISSUE-0001::implement": 5.6409523801566035,
+      "ISSUE-0001::review": 2.8204761900783017,
+      "ISSUE-0001::test": 3.948666666109622,
+      "ISSUE-0001::docs": 2.8204761900783017,
+      "ISSUE-0001::triage": 2.256380952062642,
+      "ISSUE-0002::implement": 14.632833555888134,
+      "ISSUE-0002::review": 7.316416777944067,
+      "ISSUE-0002::test": 10.242983489121693
+    },
+    "Marguerite": {
+      "ISSUE-0001::implement": 62.0,
+      "ISSUE-0001::review": 30.0,
+      "ISSUE-0001::test": 42.19999999999999,
+      "ISSUE-0001::docs": 30.0,
+      "ISSUE-0001::triage": 24.000000000000004,
+      "ISSUE-0002::implement": 19.601461039334016,
+      "ISSUE-0002::review": 7.800730519667008,
+      "ISSUE-0002::test": 12.52102272753381
+    },
+    "Silvia": {
+      "ISSUE-0001::implement": 8.109609461027786,
+      "ISSUE-0001::review": 4.054804730513893,
+      "ISSUE-0001::test": 5.67672662271945,
+      "ISSUE-0001::docs": 4.054804730513893,
+      "ISSUE-0001::triage": 3.243843784411115,
+      "ISSUE-0002::implement": 14.879851651939699,
+      "ISSUE-0002::review": 6.9399258259698495,
+      "ISSUE-0002::test": 9.715896156357788
+    },
+    "Tyisha": {
+      "ISSUE-0001::implement": 6.503401198960319,
+      "ISSUE-0001::review": 3.2517005994801593,
+      "ISSUE-0001::test": 4.552380839272223,
+      "ISSUE-0001::docs": 3.2517005994801593,
+      "ISSUE-0001::triage": 2.6013604795841276,
+      "ISSUE-0002::implement": 81.0,
+      "ISSUE-0002::review": 40.0,
+      "ISSUE-0002::test": 55.99999999999999
+    },
+    "Kendrick": {
+      "ISSUE-0001::implement": 60.0,
+      "ISSUE-0001::review": 30.0,
+      "ISSUE-0001::test": 41.99999999999999,
+      "ISSUE-0001::docs": 30.0,
+      "ISSUE-0001::triage": 24.000000000000004,
+      "ISSUE-0002::implement": 18.031521732112225,
+      "ISSUE-0002::review": 8.515760866056112,
+      "ISSUE-0002::test": 11.922065212478557
+    },
+    "Delorse": {
+      "ISSUE-0001::implement": 60.0,
+      "ISSUE-0001::review": 30.0,
+      "ISSUE-0001::test": 41.99999999999999,
+      "ISSUE-0001::docs": 30.0,
+      "ISSUE-0001::triage": 24.000000000000004,
+      "ISSUE-0002::implement": 13.920751412088382,
+      "ISSUE-0002::review": 6.960375706044191,
+      "ISSUE-0002::test": 9.744525988461866
+    },
+    "Branden": {
+      "ISSUE-0001::implement": 60.0,
+      "ISSUE-0001::review": 30.0,
+      "ISSUE-0001::test": 41.99999999999999,
+      "ISSUE-0001::docs": 30.0,
+      "ISSUE-0001::triage": 24.000000000000004,
+      "ISSUE-0002::implement": 16.43991605479945,
+      "ISSUE-0002::review": 8.219958027399725,
+      "ISSUE-0002::test": 11.507941238359615
+    }
+  },
+  "reference": {
+    "actions": {
+      "Samella": "ISSUE-0002::test",
+      "Sterling": "ISSUE-0001::docs",
+      "Marguerite": "ISSUE-0002::review",
+      "Silvia": "ISSUE-0001::triage",
+      "Tyisha": "ISSUE-0001::review",
+      "Kendrick": "skip",
+      "Delorse": "ISSUE-0002::implement",
+      "Branden": "skip"
+    },
+    "score": 153.73264741109244
+  },
+  "roles": {
+    "Silvia": "promoter_explicit",
+    "Samella": "neutral",
+    "Tyisha": "neutral",
+    "Kendrick": "neutral",
+    "Delorse": "neutral",
+    "Branden": "neutral",
+    "Marguerite": "neutral",
+    "Sterling": "neutral"
+  },
+  "intervention_slots": [
+    "Silvia",
+    "Samella"
+  ],
+  "eligible_neutrals": [
+    "Samella",
+    "Tyisha",
+    "Kendrick",
+    "Delorse",
+    "Branden",
+    "Marguerite",
+    "Sterling"
+  ]
+}
