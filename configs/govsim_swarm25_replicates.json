@@ -1,0 +1,23 @@
+{
+  "paid_enabled": false,
+  "scope": "govsim-swarm25-replicates-v1",
+  "additional_cap_usd": 25.0,
+  "shared_govsim_oasis_cap_usd": 69.630586,
+  "total_cap_usd": 69.630586,
+  "authorization_start_ledger_usd": 44.630586,
+  "max_calls": 1350,
+  "deadline_utc": "2026-11-09T14:00:00+00:00",
+  "blocks": [
+    1,
+    2,
+    3
+  ],
+  "counts": [
+    0,
+    1,
+    3,
+    5,
+    8,
+    10
+  ]
+}

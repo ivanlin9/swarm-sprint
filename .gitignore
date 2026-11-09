@@ -12,3 +12,14 @@ __pycache__/
 *.markdown
 README*
 readme*
+
+# Runtime-only files; preserve dependency locks and raw experiment JSON.
+/log/
+.run.lock
+runner.lock
+*.sqlite3-wal
+*.sqlite3-shm
+.coverage
+htmlcov/
+.mypy_cache/
+.ipynb_checkpoints/

@@ -1,0 +1,11 @@
+{
+  "paid_enabled": false,
+  "scope": "govsim-large-swarm-pilot-v1",
+  "additional_cap_usd": 10.0,
+  "shared_govsim_oasis_cap_usd": 45.0,
+  "indices": [
+    0
+  ],
+  "max_calls": 450,
+  "deadline_utc": "2026-11-09T14:00:00+00:00"
+}

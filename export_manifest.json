@@ -1,5 +1,14 @@
 {
-  "contents": "Current source, vendored source, configurations, raw experiments, results, plots and filtered legacy source",
+  "contents": "Historical experiments plus completed25-agent five-repetition study, source, configurations, raw evidence, final plots and offline audit",
+  "latest_update": {
+    "date": "2026-11-09",
+    "index": "results_index.json",
+    "guide": "EXPERIMENT_GUIDE.txt",
+    "primary_completed_episodes": 30,
+    "cleanup": "Removed tracked runtime logs and transient locks; excluded incomplete plotting snapshots from new exports. Preserved raw evidence, retries, negative results, upstream licenses and historical studies.",
+    "original_copy_counts_below": "Historical initial-export counts, not current totals",
+    "paid_execution": "Disabled in all top-level exported configurations"
+  },
   "excluded": "Markdown, README files, credentials, Git metadata, installed environments, caches and duplicate compressed bundles",
   "upstreams": [
     {

@@ -1,0 +1,11 @@
+{
+  "paid_enabled": false,
+  "scope": "govsim-swarm25-individual-v1",
+  "additional_cap_usd": 2.4661825,
+  "shared_govsim_oasis_cap_usd": 45.0,
+  "indices": [
+    0
+  ],
+  "max_calls": 450,
+  "deadline_utc": "2026-11-09T14:00:00+00:00"
+}

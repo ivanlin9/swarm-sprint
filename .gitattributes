@@ -1,0 +1,7 @@
+# Keep GitHub's code view focused without removing reproducibility evidence.
+external/** linguist-vendored=true
+archive/** linguist-vendored=true
+runs/** linguist-generated=true
+reports/** linguist-generated=true
+# Matplotlib emits trailing spaces inside SVG path data; preserve generated output.
+reports/**/*.svg -whitespace

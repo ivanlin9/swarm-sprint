@@ -1,0 +1,23 @@
+{
+  "primary_study": {
+    "population": 25,
+    "ordinary_recipients_per_episode": 15,
+    "recruiter_counts": [0, 1, 3, 5, 8, 10],
+    "repetitions": 5,
+    "completed_episodes": 30,
+    "raw_directories": ["runs/govsim/swarm25-replicates-v1", "runs/govsim/swarm25-extension-v1"],
+    "summary": "reports/govsim-swarm25-five-repetitions/episodes-30-extension-calls-906/summary.json",
+    "total_plot": "reports/govsim-swarm25-five-repetitions/separate-plots-30-episodes/total_tons.png",
+    "average_plot": "reports/govsim-swarm25-five-repetitions/separate-plots-30-episodes/average_tons.png",
+    "mean_total_tons": [150, 150, 150, 183.6, 193.2, 286.6],
+    "mean_tons_per_ordinary_agent": [10, 10, 10, 12.24, 12.88, 19.106666666666666],
+    "statistical_significance_claim": false
+  },
+  "sensitivity_analysis": {
+    "excluded_repetition": 1,
+    "post_hoc": true,
+    "not_primary_result": true,
+    "directory": "reports/govsim-swarm25-five-repetitions/separate-plots-24-episodes-excluding-1"
+  },
+  "guide": "EXPERIMENT_GUIDE.txt"
+}

@@ -1,0 +1,8 @@
+{
+  "paid_enabled": false,
+  "scope": "govsim-swarm25-highdose-v1",
+  "additional_cap_usd": 4.5,
+  "shared_govsim_oasis_cap_usd": 45.0,
+  "max_calls": 225,
+  "deadline_utc": "2026-11-09T14:00:00+00:00"
+}
